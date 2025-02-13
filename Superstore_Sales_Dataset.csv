@@ -1,0 +1,1001 @@
+Order ID,Order Date,Ship Date,Customer Name,Customer Segment,Category,Sub-Category,Product Name,Sales Amount,Profit,Discount,Quantity,Region,State
+ORD1000,2023-03-28 00:00:00,2023-03-30 00:00:00,Customer 86,Home Office,Office Supplies,Binders,Binders 96,611.31,39.71,0.16,8,South,Texas
+ORD1001,2023-10-15 00:00:00,2023-10-17 00:00:00,Customer 449,Home Office,Technology,Phones,Phones 54,62.75,5.02,0.11,4,East,California
+ORD1002,2023-01-24 00:00:00,2023-01-30 00:00:00,Customer 90,Corporate,Technology,Printers,Printers 47,454.63,52.64,0.18,3,West,Texas
+ORD1003,2023-04-04 00:00:00,2023-04-09 00:00:00,Customer 383,Home Office,Technology,Printers,Printers 92,404.49,108.25,0.06,9,South,California
+ORD1004,2023-06-11 00:00:00,2023-06-15 00:00:00,Customer 84,Small Business,Office Supplies,Paper,Paper 43,295.64,50.94,0.05,10,West,Florida
+ORD1005,2023-07-02 00:00:00,2023-07-06 00:00:00,Customer 422,Consumer,Technology,Laptops,Laptops 30,245.85,41.97,0.13,9,South,California
+ORD1006,2023-08-31 00:00:00,2023-09-07 00:00:00,Customer 326,Home Office,Office Supplies,Pens,Pens 45,332.45,37.59,0.08,2,West,New York
+ORD1007,2023-05-29 00:00:00,2023-06-05 00:00:00,Customer 473,Small Business,Technology,Laptops,Laptops 19,642.65,172.08,0.01,9,Central,Illinois
+ORD1008,2023-08-21 00:00:00,2023-08-23 00:00:00,Customer 485,Corporate,Office Supplies,Pens,Pens 59,631.86,106.1,0.05,3,East,Illinois
+ORD1009,2023-03-22 00:00:00,2023-03-24 00:00:00,Customer 145,Corporate,Office Supplies,Binders,Binders 27,253.37,51.71,0.16,10,Central,Texas
+ORD1010,2023-05-31 00:00:00,2023-06-01 00:00:00,Customer 146,Small Business,Office Supplies,Binders,Binders 62,591.64,51.41,0.16,5,Central,Texas
+ORD1011,2024-01-01 00:00:00,2024-01-05 00:00:00,Customer 20,Corporate,Furniture,Sofas,Sofas 85,521.36,152.61,0.17,3,Central,New York
+ORD1012,2023-01-24 00:00:00,2023-01-31 00:00:00,Customer 429,Home Office,Technology,Monitors,Monitors 56,84.69,6.22,0.14,5,West,California
+ORD1013,2023-03-15 00:00:00,2023-03-16 00:00:00,Customer 370,Home Office,Office Supplies,Binders,Binders 1,771.18,89.91,0,2,West,Florida
+ORD1014,2023-11-13 00:00:00,2023-11-16 00:00:00,Customer 479,Home Office,Technology,Printers,Printers 92,160.29,39.18,0.15,9,East,Florida
+ORD1015,2023-11-19 00:00:00,2023-11-21 00:00:00,Customer 445,Small Business,Office Supplies,Paper,Paper 89,213.41,52.1,0.07,7,South,California
+ORD1016,2023-07-07 00:00:00,2023-07-09 00:00:00,Customer 154,Consumer,Furniture,Bookcases,Bookcases 30,793.72,201.13,0.03,1,Central,Florida
+ORD1017,2023-10-10 00:00:00,2023-10-14 00:00:00,Customer 316,Home Office,Technology,Printers,Printers 33,260.46,30.89,0.09,7,Central,New York
+ORD1018,2023-05-17 00:00:00,2023-05-18 00:00:00,Customer 81,Consumer,Office Supplies,Staplers,Staplers 55,112.53,13.93,0.01,5,South,New York
+ORD1019,2023-01-20 00:00:00,2023-01-23 00:00:00,Customer 417,Corporate,Furniture,Sofas,Sofas 63,300.9,37.97,0.18,5,South,Florida
+ORD1020,2023-12-04 00:00:00,2023-12-10 00:00:00,Customer 283,Corporate,Office Supplies,Staplers,Staplers 94,52.96,15.76,0.14,3,South,Florida
+ORD1021,2023-03-06 00:00:00,2023-03-10 00:00:00,Customer 478,Corporate,Furniture,Tables,Tables 53,892.32,256.95,0.02,4,South,Illinois
+ORD1022,2023-12-11 00:00:00,2023-12-15 00:00:00,Customer 2,Consumer,Office Supplies,Staplers,Staplers 68,457.94,101.2,0.03,1,South,Texas
+ORD1023,2023-12-02 00:00:00,2023-12-07 00:00:00,Customer 11,Consumer,Office Supplies,Staplers,Staplers 94,968.73,79.92,0.12,6,Central,New York
+ORD1024,2023-11-09 00:00:00,2023-11-12 00:00:00,Customer 255,Home Office,Office Supplies,Paper,Paper 36,406.22,68.98,0.07,2,East,Texas
+ORD1025,2023-05-18 00:00:00,2023-05-23 00:00:00,Customer 96,Corporate,Furniture,Tables,Tables 75,896.01,265.86,0.13,5,East,New York
+ORD1026,2023-08-26 00:00:00,2023-09-01 00:00:00,Customer 164,Small Business,Office Supplies,Paper,Paper 20,852.05,110.11,0.04,4,Central,Texas
+ORD1027,2023-04-21 00:00:00,2023-04-22 00:00:00,Customer 261,Home Office,Office Supplies,Staplers,Staplers 73,725.72,196.49,0.01,9,West,Florida
+ORD1028,2023-04-08 00:00:00,2023-04-14 00:00:00,Customer 248,Consumer,Technology,Phones,Phones 79,817.05,121.28,0.1,3,West,New York
+ORD1029,2023-11-23 00:00:00,2023-11-25 00:00:00,Customer 404,Corporate,Office Supplies,Paper,Paper 63,621.22,183.74,0.13,2,East,Texas
+ORD1030,2023-03-04 00:00:00,2023-03-11 00:00:00,Customer 221,Consumer,Office Supplies,Pens,Pens 80,919.96,46.84,0.05,8,East,Florida
+ORD1031,2023-11-12 00:00:00,2023-11-13 00:00:00,Customer 69,Home Office,Furniture,Chairs,Chairs 84,931.08,236.4,0.14,8,Central,New York
+ORD1032,2023-10-25 00:00:00,2023-10-28 00:00:00,Customer 111,Consumer,Technology,Monitors,Monitors 22,687.11,149.36,0.06,5,Central,New York
+ORD1033,2023-12-25 00:00:00,2023-12-31 00:00:00,Customer 202,Consumer,Furniture,Tables,Tables 11,14.23,2.37,0.19,2,West,Texas
+ORD1034,2023-09-22 00:00:00,2023-09-24 00:00:00,Customer 103,Small Business,Furniture,Tables,Tables 6,241.1,27.27,0.01,2,Central,New York
+ORD1035,2023-10-07 00:00:00,2023-10-12 00:00:00,Customer 132,Consumer,Office Supplies,Pens,Pens 60,462.31,58.32,0.1,7,West,Florida
+ORD1036,2023-10-08 00:00:00,2023-10-13 00:00:00,Customer 116,Small Business,Technology,Monitors,Monitors 85,852,79.81,0.16,6,South,Texas
+ORD1037,2023-06-15 00:00:00,2023-06-20 00:00:00,Customer 230,Corporate,Office Supplies,Staplers,Staplers 86,286.01,29.76,0.18,9,South,California
+ORD1038,2023-01-31 00:00:00,2023-02-07 00:00:00,Customer 195,Home Office,Furniture,Tables,Tables 74,741.38,169.31,0.09,1,West,Illinois
+ORD1039,2023-07-06 00:00:00,2023-07-11 00:00:00,Customer 328,Corporate,Office Supplies,Paper,Paper 3,977.83,108.87,0.09,2,West,Texas
+ORD1040,2023-02-10 00:00:00,2023-02-14 00:00:00,Customer 159,Consumer,Furniture,Bookcases,Bookcases 97,720.29,188.24,0.14,10,South,Texas
+ORD1041,2023-11-09 00:00:00,2023-11-15 00:00:00,Customer 6,Small Business,Furniture,Bookcases,Bookcases 65,372.1,21.15,0.09,7,Central,California
+ORD1042,2023-02-05 00:00:00,2023-02-08 00:00:00,Customer 153,Small Business,Furniture,Sofas,Sofas 53,671.88,201.34,0.14,6,East,New York
+ORD1043,2023-04-16 00:00:00,2023-04-21 00:00:00,Customer 284,Corporate,Furniture,Chairs,Chairs 83,862.89,151.56,0.07,2,East,Florida
+ORD1044,2023-04-20 00:00:00,2023-04-23 00:00:00,Customer 390,Consumer,Technology,Phones,Phones 84,36.14,2.53,0.15,2,West,Texas
+ORD1045,2023-10-11 00:00:00,2023-10-14 00:00:00,Customer 74,Small Business,Office Supplies,Staplers,Staplers 62,756.07,106.17,0.09,6,West,Florida
+ORD1046,2023-04-26 00:00:00,2023-04-28 00:00:00,Customer 440,Consumer,Furniture,Sofas,Sofas 76,947.81,173.86,0.15,5,South,Florida
+ORD1047,2023-11-29 00:00:00,2023-12-04 00:00:00,Customer 307,Home Office,Technology,Phones,Phones 6,518.3,79.83,0.14,6,West,Florida
+ORD1048,2023-05-30 00:00:00,2023-05-31 00:00:00,Customer 330,Home Office,Furniture,Tables,Tables 95,109.91,31.08,0.13,2,West,New York
+ORD1049,2023-07-13 00:00:00,2023-07-19 00:00:00,Customer 407,Consumer,Furniture,Chairs,Chairs 73,927.32,69.36,0.01,1,East,Texas
+ORD1050,2023-11-01 00:00:00,2023-11-07 00:00:00,Customer 197,Corporate,Furniture,Chairs,Chairs 59,566.94,97.82,0.05,1,East,Texas
+ORD1051,2023-04-16 00:00:00,2023-04-23 00:00:00,Customer 16,Corporate,Furniture,Chairs,Chairs 95,998.07,99.41,0.02,1,South,Texas
+ORD1052,2023-12-14 00:00:00,2023-12-15 00:00:00,Customer 131,Small Business,Office Supplies,Pens,Pens 43,176.26,29.63,0.11,9,Central,Illinois
+ORD1053,2023-03-25 00:00:00,2023-03-27 00:00:00,Customer 332,Consumer,Furniture,Chairs,Chairs 58,627.23,167.28,0.12,1,Central,Florida
+ORD1054,2023-12-05 00:00:00,2023-12-11 00:00:00,Customer 114,Home Office,Technology,Printers,Printers 77,748.87,111.82,0.13,3,West,New York
+ORD1055,2023-11-29 00:00:00,2023-12-06 00:00:00,Customer 19,Small Business,Office Supplies,Paper,Paper 28,748.84,175.14,0.16,10,South,California
+ORD1056,2023-03-04 00:00:00,2023-03-10 00:00:00,Customer 465,Corporate,Furniture,Bookcases,Bookcases 45,397.31,88.87,0.09,9,West,Illinois
+ORD1057,2023-03-30 00:00:00,2023-04-02 00:00:00,Customer 189,Corporate,Technology,Phones,Phones 24,376.85,112.23,0.18,1,South,Illinois
+ORD1058,2023-05-09 00:00:00,2023-05-13 00:00:00,Customer 343,Small Business,Technology,Laptops,Laptops 77,205.82,21.17,0.14,5,Central,New York
+ORD1059,2023-09-26 00:00:00,2023-09-28 00:00:00,Customer 232,Small Business,Furniture,Bookcases,Bookcases 25,230.86,34.28,0.05,1,Central,Illinois
+ORD1060,2023-03-29 00:00:00,2023-03-31 00:00:00,Customer 37,Small Business,Furniture,Bookcases,Bookcases 55,286.45,16.2,0.14,5,South,California
+ORD1061,2023-01-09 00:00:00,2023-01-15 00:00:00,Customer 429,Consumer,Technology,Phones,Phones 15,457.44,135.82,0.12,7,West,Texas
+ORD1062,2023-02-16 00:00:00,2023-02-23 00:00:00,Customer 248,Consumer,Furniture,Bookcases,Bookcases 81,538.64,150.02,0.14,5,Central,Illinois
+ORD1063,2023-02-01 00:00:00,2023-02-07 00:00:00,Customer 100,Consumer,Office Supplies,Paper,Paper 15,432.64,31.19,0.19,5,Central,New York
+ORD1064,2023-08-13 00:00:00,2023-08-14 00:00:00,Customer 253,Home Office,Technology,Printers,Printers 18,301.1,37.88,0.07,3,Central,California
+ORD1065,2023-01-25 00:00:00,2023-01-30 00:00:00,Customer 435,Consumer,Technology,Phones,Phones 15,709,169.85,0.08,7,Central,California
+ORD1066,2023-08-09 00:00:00,2023-08-10 00:00:00,Customer 383,Corporate,Furniture,Sofas,Sofas 89,997.56,241.96,0.1,5,Central,Illinois
+ORD1067,2023-07-24 00:00:00,2023-07-29 00:00:00,Customer 207,Consumer,Furniture,Chairs,Chairs 24,946.48,262.45,0.1,5,South,Illinois
+ORD1068,2023-10-02 00:00:00,2023-10-05 00:00:00,Customer 218,Home Office,Office Supplies,Paper,Paper 95,737.52,46.61,0.09,10,South,Florida
+ORD1069,2023-04-01 00:00:00,2023-04-04 00:00:00,Customer 2,Consumer,Furniture,Chairs,Chairs 95,67.34,14.02,0.19,7,East,Florida
+ORD1070,2023-02-10 00:00:00,2023-02-15 00:00:00,Customer 418,Consumer,Office Supplies,Pens,Pens 18,829.43,80.11,0.1,2,Central,Texas
+ORD1071,2023-05-15 00:00:00,2023-05-16 00:00:00,Customer 137,Home Office,Furniture,Tables,Tables 13,330.5,24,0.13,5,West,California
+ORD1072,2023-08-28 00:00:00,2023-08-29 00:00:00,Customer 106,Corporate,Technology,Laptops,Laptops 31,388.65,26.35,0.1,9,West,New York
+ORD1073,2023-02-01 00:00:00,2023-02-05 00:00:00,Customer 236,Consumer,Furniture,Bookcases,Bookcases 26,779.18,194.62,0.13,3,West,California
+ORD1074,2023-03-09 00:00:00,2023-03-14 00:00:00,Customer 297,Home Office,Technology,Monitors,Monitors 33,268.09,68.6,0.15,5,East,Illinois
+ORD1075,2023-08-03 00:00:00,2023-08-10 00:00:00,Customer 41,Consumer,Office Supplies,Pens,Pens 70,912.64,265.36,0.02,1,South,Texas
+ORD1076,2023-05-03 00:00:00,2023-05-10 00:00:00,Customer 397,Small Business,Office Supplies,Pens,Pens 55,939.09,186.52,0.03,6,East,Florida
+ORD1077,2023-02-28 00:00:00,2023-03-01 00:00:00,Customer 124,Corporate,Technology,Laptops,Laptops 8,659.01,38.7,0.14,9,Central,California
+ORD1078,2023-12-07 00:00:00,2023-12-11 00:00:00,Customer 171,Small Business,Technology,Printers,Printers 13,808.62,144.51,0.07,5,East,New York
+ORD1079,2023-01-06 00:00:00,2023-01-10 00:00:00,Customer 397,Corporate,Office Supplies,Pens,Pens 37,155.48,36.03,0.18,4,Central,Florida
+ORD1080,2023-10-17 00:00:00,2023-10-22 00:00:00,Customer 300,Small Business,Furniture,Chairs,Chairs 36,530.11,53.75,0.2,10,East,Illinois
+ORD1081,2023-05-27 00:00:00,2023-05-29 00:00:00,Customer 27,Corporate,Technology,Monitors,Monitors 7,584.11,147.93,0.05,6,West,Illinois
+ORD1082,2023-12-15 00:00:00,2023-12-16 00:00:00,Customer 48,Home Office,Furniture,Bookcases,Bookcases 92,609.96,93.26,0.2,7,West,New York
+ORD1083,2023-02-22 00:00:00,2023-02-24 00:00:00,Customer 48,Consumer,Technology,Monitors,Monitors 54,345.22,87.68,0.19,7,Central,New York
+ORD1084,2023-01-27 00:00:00,2023-01-28 00:00:00,Customer 425,Home Office,Technology,Monitors,Monitors 88,256.67,48.3,0.09,3,East,Florida
+ORD1085,2023-10-18 00:00:00,2023-10-22 00:00:00,Customer 197,Corporate,Office Supplies,Paper,Paper 76,197.6,29.63,0.14,1,Central,California
+ORD1086,2023-09-06 00:00:00,2023-09-13 00:00:00,Customer 241,Corporate,Technology,Phones,Phones 1,739.07,66.71,0.06,2,East,Florida
+ORD1087,2023-11-20 00:00:00,2023-11-21 00:00:00,Customer 47,Consumer,Technology,Phones,Phones 82,428.57,111.2,0.04,3,East,New York
+ORD1088,2023-02-19 00:00:00,2023-02-20 00:00:00,Customer 351,Home Office,Furniture,Sofas,Sofas 79,452.79,120.54,0.15,8,West,New York
+ORD1089,2023-03-22 00:00:00,2023-03-25 00:00:00,Customer 91,Home Office,Office Supplies,Binders,Binders 77,786.8,208.91,0.16,1,Central,Illinois
+ORD1090,2023-02-01 00:00:00,2023-02-04 00:00:00,Customer 443,Corporate,Furniture,Tables,Tables 35,661.69,135.4,0.13,3,Central,California
+ORD1091,2023-08-28 00:00:00,2023-09-02 00:00:00,Customer 358,Corporate,Furniture,Bookcases,Bookcases 98,104.12,13.51,0.12,6,East,Illinois
+ORD1092,2023-10-30 00:00:00,2023-11-03 00:00:00,Customer 315,Home Office,Office Supplies,Paper,Paper 20,460.03,112.45,0.09,6,Central,New York
+ORD1093,2023-02-25 00:00:00,2023-03-04 00:00:00,Customer 281,Consumer,Office Supplies,Paper,Paper 65,653,75.57,0.16,2,South,Florida
+ORD1094,2023-09-16 00:00:00,2023-09-23 00:00:00,Customer 71,Consumer,Office Supplies,Pens,Pens 70,174.04,39.92,0,7,West,Florida
+ORD1095,2023-06-15 00:00:00,2023-06-16 00:00:00,Customer 30,Home Office,Technology,Printers,Printers 89,34.16,2.13,0.04,2,West,California
+ORD1096,2023-05-11 00:00:00,2023-05-12 00:00:00,Customer 450,Consumer,Furniture,Bookcases,Bookcases 3,963.6,283.79,0.16,8,East,Texas
+ORD1097,2023-02-12 00:00:00,2023-02-13 00:00:00,Customer 31,Small Business,Office Supplies,Pens,Pens 72,801.9,130.62,0.14,4,Central,Illinois
+ORD1098,2023-11-30 00:00:00,2023-12-02 00:00:00,Customer 409,Small Business,Office Supplies,Staplers,Staplers 79,366.89,94.3,0.18,6,East,Texas
+ORD1099,2023-10-16 00:00:00,2023-10-22 00:00:00,Customer 219,Small Business,Office Supplies,Paper,Paper 33,910.65,149.07,0.05,6,West,Texas
+ORD1100,2023-11-20 00:00:00,2023-11-24 00:00:00,Customer 414,Small Business,Furniture,Chairs,Chairs 7,915.41,95.05,0.1,2,Central,Texas
+ORD1101,2023-01-04 00:00:00,2023-01-09 00:00:00,Customer 381,Small Business,Furniture,Sofas,Sofas 42,721,61.43,0.1,7,South,Texas
+ORD1102,2023-10-15 00:00:00,2023-10-18 00:00:00,Customer 103,Small Business,Furniture,Sofas,Sofas 11,24.67,4.14,0.16,4,Central,Florida
+ORD1103,2023-04-19 00:00:00,2023-04-26 00:00:00,Customer 12,Home Office,Technology,Monitors,Monitors 94,973.3,133.38,0.11,4,South,Florida
+ORD1104,2023-12-28 00:00:00,2024-01-01 00:00:00,Customer 348,Corporate,Technology,Phones,Phones 35,158.56,20.65,0.17,2,East,Texas
+ORD1105,2023-01-22 00:00:00,2023-01-27 00:00:00,Customer 409,Corporate,Technology,Phones,Phones 14,427.41,27.57,0.09,1,West,New York
+ORD1106,2023-12-24 00:00:00,2023-12-27 00:00:00,Customer 69,Consumer,Technology,Monitors,Monitors 26,776.38,182.96,0.19,4,West,Illinois
+ORD1107,2023-05-19 00:00:00,2023-05-26 00:00:00,Customer 278,Home Office,Office Supplies,Staplers,Staplers 69,385.16,80.03,0.17,9,East,Texas
+ORD1108,2023-04-11 00:00:00,2023-04-17 00:00:00,Customer 436,Small Business,Technology,Laptops,Laptops 56,418.95,111.01,0.07,10,South,Illinois
+ORD1109,2023-04-20 00:00:00,2023-04-22 00:00:00,Customer 212,Corporate,Technology,Monitors,Monitors 18,476.08,130.52,0.16,8,West,Florida
+ORD1110,2023-04-16 00:00:00,2023-04-23 00:00:00,Customer 217,Small Business,Technology,Phones,Phones 14,993.7,165.36,0.19,8,East,Illinois
+ORD1111,2023-04-11 00:00:00,2023-04-17 00:00:00,Customer 303,Small Business,Technology,Laptops,Laptops 15,72.36,4.76,0.07,4,Central,Illinois
+ORD1112,2023-04-27 00:00:00,2023-05-03 00:00:00,Customer 180,Home Office,Furniture,Bookcases,Bookcases 93,144.6,7.74,0.06,10,Central,Texas
+ORD1113,2023-05-31 00:00:00,2023-06-07 00:00:00,Customer 269,Small Business,Technology,Laptops,Laptops 84,554.55,99.19,0.05,6,East,Florida
+ORD1114,2023-08-29 00:00:00,2023-09-04 00:00:00,Customer 477,Small Business,Office Supplies,Pens,Pens 57,833.99,219.12,0.14,1,Central,Florida
+ORD1115,2023-05-02 00:00:00,2023-05-05 00:00:00,Customer 163,Home Office,Technology,Monitors,Monitors 37,998.6,88.21,0,4,Central,Florida
+ORD1116,2023-10-28 00:00:00,2023-10-29 00:00:00,Customer 459,Corporate,Technology,Printers,Printers 8,640.96,116.7,0.17,5,West,Illinois
+ORD1117,2023-10-14 00:00:00,2023-10-18 00:00:00,Customer 261,Consumer,Technology,Laptops,Laptops 98,68.29,14.76,0.02,9,South,New York
+ORD1118,2023-08-13 00:00:00,2023-08-20 00:00:00,Customer 345,Home Office,Technology,Printers,Printers 84,878.59,250.23,0.04,3,East,Texas
+ORD1119,2023-08-30 00:00:00,2023-09-02 00:00:00,Customer 158,Small Business,Furniture,Chairs,Chairs 28,311,80.29,0.13,9,East,Illinois
+ORD1120,2023-09-21 00:00:00,2023-09-25 00:00:00,Customer 433,Small Business,Office Supplies,Binders,Binders 39,639.04,118.22,0,9,East,Illinois
+ORD1121,2023-06-14 00:00:00,2023-06-18 00:00:00,Customer 358,Corporate,Office Supplies,Binders,Binders 89,788.34,141.53,0.11,10,West,Texas
+ORD1122,2023-09-06 00:00:00,2023-09-12 00:00:00,Customer 219,Small Business,Office Supplies,Pens,Pens 54,681.36,99.87,0.02,4,East,Florida
+ORD1123,2023-12-01 00:00:00,2023-12-03 00:00:00,Customer 40,Consumer,Office Supplies,Staplers,Staplers 51,185.63,45.43,0.19,4,South,California
+ORD1124,2023-10-13 00:00:00,2023-10-17 00:00:00,Customer 63,Home Office,Furniture,Tables,Tables 59,360.89,46.2,0.11,6,South,New York
+ORD1125,2023-02-20 00:00:00,2023-02-22 00:00:00,Customer 422,Small Business,Furniture,Chairs,Chairs 25,605.02,152.16,0.15,1,East,Texas
+ORD1126,2023-06-17 00:00:00,2023-06-20 00:00:00,Customer 166,Corporate,Furniture,Chairs,Chairs 25,393.09,89.17,0.04,8,South,Texas
+ORD1127,2023-10-30 00:00:00,2023-11-01 00:00:00,Customer 3,Small Business,Technology,Printers,Printers 46,333.35,98.96,0.06,6,East,Texas
+ORD1128,2023-04-19 00:00:00,2023-04-22 00:00:00,Customer 497,Home Office,Technology,Laptops,Laptops 28,595.59,150.57,0.16,4,South,California
+ORD1129,2023-09-15 00:00:00,2023-09-17 00:00:00,Customer 435,Consumer,Furniture,Chairs,Chairs 88,959.85,77.51,0.06,6,East,Illinois
+ORD1130,2023-06-15 00:00:00,2023-06-16 00:00:00,Customer 443,Consumer,Technology,Phones,Phones 8,94.43,25.25,0.14,7,East,Illinois
+ORD1131,2023-08-07 00:00:00,2023-08-10 00:00:00,Customer 165,Consumer,Furniture,Bookcases,Bookcases 43,640.59,162.64,0.16,9,South,Illinois
+ORD1132,2023-07-12 00:00:00,2023-07-19 00:00:00,Customer 67,Small Business,Office Supplies,Staplers,Staplers 47,244.43,50.48,0.18,5,South,New York
+ORD1133,2023-08-22 00:00:00,2023-08-25 00:00:00,Customer 287,Small Business,Technology,Phones,Phones 56,242.32,63.13,0.01,1,West,New York
+ORD1134,2023-06-15 00:00:00,2023-06-16 00:00:00,Customer 490,Home Office,Furniture,Bookcases,Bookcases 68,542.32,106.44,0.08,3,West,Florida
+ORD1135,2023-11-22 00:00:00,2023-11-28 00:00:00,Customer 194,Home Office,Furniture,Chairs,Chairs 95,308.12,31.76,0.08,2,South,New York
+ORD1136,2023-08-05 00:00:00,2023-08-08 00:00:00,Customer 373,Corporate,Office Supplies,Staplers,Staplers 30,843.38,144.53,0.06,9,Central,Texas
+ORD1137,2023-10-05 00:00:00,2023-10-07 00:00:00,Customer 281,Home Office,Technology,Printers,Printers 60,138.38,10.91,0.15,7,East,California
+ORD1138,2023-10-02 00:00:00,2023-10-04 00:00:00,Customer 120,Home Office,Technology,Phones,Phones 52,690,53.35,0.16,9,Central,California
+ORD1139,2023-11-07 00:00:00,2023-11-14 00:00:00,Customer 53,Corporate,Office Supplies,Pens,Pens 74,161.83,13.33,0.18,7,Central,Illinois
+ORD1140,2023-10-02 00:00:00,2023-10-04 00:00:00,Customer 160,Corporate,Furniture,Bookcases,Bookcases 66,627.07,95.11,0.2,2,West,California
+ORD1141,2023-06-13 00:00:00,2023-06-20 00:00:00,Customer 21,Small Business,Furniture,Bookcases,Bookcases 63,769.28,47.81,0.13,3,Central,New York
+ORD1142,2023-04-03 00:00:00,2023-04-10 00:00:00,Customer 499,Consumer,Furniture,Sofas,Sofas 95,773.44,91.85,0.05,10,South,Illinois
+ORD1143,2023-09-19 00:00:00,2023-09-24 00:00:00,Customer 305,Consumer,Technology,Printers,Printers 17,41.17,10.94,0.01,3,South,Texas
+ORD1144,2023-03-04 00:00:00,2023-03-10 00:00:00,Customer 298,Home Office,Furniture,Chairs,Chairs 61,85.45,18.8,0.17,9,South,Texas
+ORD1145,2023-04-15 00:00:00,2023-04-20 00:00:00,Customer 52,Small Business,Technology,Monitors,Monitors 16,143.3,18.64,0.15,2,East,Texas
+ORD1146,2023-12-18 00:00:00,2023-12-19 00:00:00,Customer 174,Small Business,Furniture,Chairs,Chairs 69,766.16,150.8,0.19,5,West,California
+ORD1147,2023-08-25 00:00:00,2023-08-27 00:00:00,Customer 75,Consumer,Furniture,Sofas,Sofas 4,373.14,94.21,0.18,2,East,New York
+ORD1148,2023-03-27 00:00:00,2023-03-30 00:00:00,Customer 498,Consumer,Office Supplies,Paper,Paper 15,587.46,117.75,0.16,1,Central,Texas
+ORD1149,2023-12-16 00:00:00,2023-12-22 00:00:00,Customer 320,Consumer,Technology,Laptops,Laptops 12,587.05,144.98,0.2,7,South,Texas
+ORD1150,2023-08-09 00:00:00,2023-08-15 00:00:00,Customer 182,Home Office,Technology,Laptops,Laptops 43,858.85,142.93,0.19,2,East,Texas
+ORD1151,2023-03-12 00:00:00,2023-03-13 00:00:00,Customer 300,Home Office,Office Supplies,Pens,Pens 59,696.94,191.1,0.18,2,Central,New York
+ORD1152,2023-11-18 00:00:00,2023-11-25 00:00:00,Customer 321,Small Business,Technology,Laptops,Laptops 26,103.71,29.78,0,8,East,California
+ORD1153,2023-11-10 00:00:00,2023-11-14 00:00:00,Customer 154,Consumer,Furniture,Sofas,Sofas 98,555.84,33.17,0.1,2,South,Illinois
+ORD1154,2023-01-08 00:00:00,2023-01-09 00:00:00,Customer 403,Corporate,Office Supplies,Paper,Paper 23,113.74,28.49,0.2,2,South,California
+ORD1155,2023-12-30 00:00:00,2024-01-06 00:00:00,Customer 334,Home Office,Office Supplies,Paper,Paper 70,763.79,60.25,0.14,10,Central,Florida
+ORD1156,2023-04-16 00:00:00,2023-04-22 00:00:00,Customer 95,Home Office,Furniture,Sofas,Sofas 7,393.05,114.78,0.14,3,Central,Texas
+ORD1157,2023-02-25 00:00:00,2023-03-04 00:00:00,Customer 256,Corporate,Technology,Printers,Printers 26,676.63,139.2,0.08,7,West,Florida
+ORD1158,2023-07-22 00:00:00,2023-07-24 00:00:00,Customer 9,Small Business,Technology,Laptops,Laptops 85,405.53,94.7,0.17,7,West,Florida
+ORD1159,2023-12-18 00:00:00,2023-12-25 00:00:00,Customer 280,Corporate,Technology,Laptops,Laptops 14,463.56,115.31,0.17,10,South,California
+ORD1160,2023-04-13 00:00:00,2023-04-19 00:00:00,Customer 45,Corporate,Furniture,Tables,Tables 4,615.01,144.05,0.15,5,Central,Texas
+ORD1161,2023-05-18 00:00:00,2023-05-19 00:00:00,Customer 203,Corporate,Furniture,Tables,Tables 19,843.25,146.04,0.02,7,Central,Florida
+ORD1162,2023-02-16 00:00:00,2023-02-21 00:00:00,Customer 402,Home Office,Technology,Monitors,Monitors 2,111.93,21.76,0.12,1,Central,Texas
+ORD1163,2023-11-20 00:00:00,2023-11-24 00:00:00,Customer 209,Small Business,Technology,Laptops,Laptops 14,460.38,26.74,0.2,10,South,New York
+ORD1164,2023-10-14 00:00:00,2023-10-17 00:00:00,Customer 214,Corporate,Office Supplies,Paper,Paper 90,595.84,140.5,0.2,10,South,New York
+ORD1165,2023-01-31 00:00:00,2023-02-04 00:00:00,Customer 265,Consumer,Furniture,Sofas,Sofas 27,175,41.57,0.17,3,West,Florida
+ORD1166,2023-07-02 00:00:00,2023-07-09 00:00:00,Customer 83,Small Business,Office Supplies,Paper,Paper 91,265.85,55.87,0.2,9,Central,California
+ORD1167,2023-08-03 00:00:00,2023-08-04 00:00:00,Customer 445,Home Office,Furniture,Bookcases,Bookcases 56,480.63,117.72,0.17,4,Central,Florida
+ORD1168,2023-01-05 00:00:00,2023-01-11 00:00:00,Customer 334,Home Office,Office Supplies,Staplers,Staplers 19,227.01,44.52,0.13,2,South,Florida
+ORD1169,2023-08-30 00:00:00,2023-08-31 00:00:00,Customer 395,Corporate,Furniture,Sofas,Sofas 14,204.79,39.66,0.1,9,East,Florida
+ORD1170,2023-08-13 00:00:00,2023-08-18 00:00:00,Customer 412,Corporate,Technology,Printers,Printers 45,920.56,216.82,0.18,8,East,California
+ORD1171,2023-06-07 00:00:00,2023-06-11 00:00:00,Customer 1,Corporate,Office Supplies,Binders,Binders 36,989.02,171.07,0.1,1,South,New York
+ORD1172,2023-11-18 00:00:00,2023-11-25 00:00:00,Customer 380,Small Business,Furniture,Sofas,Sofas 27,379.89,110.67,0.13,3,West,Illinois
+ORD1173,2023-01-11 00:00:00,2023-01-14 00:00:00,Customer 222,Corporate,Technology,Laptops,Laptops 56,586.75,172.02,0.03,6,East,Florida
+ORD1174,2023-04-13 00:00:00,2023-04-17 00:00:00,Customer 241,Consumer,Technology,Monitors,Monitors 28,303.07,66.65,0.19,7,Central,Illinois
+ORD1175,2023-11-04 00:00:00,2023-11-06 00:00:00,Customer 4,Corporate,Technology,Phones,Phones 39,820.88,114.89,0.19,6,East,New York
+ORD1176,2023-09-25 00:00:00,2023-09-29 00:00:00,Customer 270,Small Business,Office Supplies,Paper,Paper 29,367.11,40.36,0,2,Central,California
+ORD1177,2023-09-26 00:00:00,2023-10-03 00:00:00,Customer 169,Consumer,Technology,Phones,Phones 25,382.53,72.23,0.14,9,South,New York
+ORD1178,2023-03-15 00:00:00,2023-03-20 00:00:00,Customer 198,Consumer,Furniture,Bookcases,Bookcases 11,894.2,158.16,0.16,8,West,Texas
+ORD1179,2023-12-01 00:00:00,2023-12-04 00:00:00,Customer 472,Consumer,Technology,Phones,Phones 9,865.51,56.73,0.11,5,Central,Texas
+ORD1180,2023-07-04 00:00:00,2023-07-07 00:00:00,Customer 116,Home Office,Office Supplies,Paper,Paper 62,199.93,16.17,0.13,3,West,New York
+ORD1181,2023-10-11 00:00:00,2023-10-16 00:00:00,Customer 249,Corporate,Furniture,Sofas,Sofas 2,852.48,53.16,0.19,9,South,New York
+ORD1182,2023-05-09 00:00:00,2023-05-15 00:00:00,Customer 144,Consumer,Technology,Laptops,Laptops 52,114.08,27.35,0.05,1,Central,Illinois
+ORD1183,2023-05-09 00:00:00,2023-05-16 00:00:00,Customer 496,Corporate,Furniture,Bookcases,Bookcases 80,959.7,183.72,0.18,2,South,California
+ORD1184,2023-11-26 00:00:00,2023-11-30 00:00:00,Customer 478,Corporate,Furniture,Bookcases,Bookcases 87,385.71,53.12,0.13,10,West,California
+ORD1185,2023-03-22 00:00:00,2023-03-27 00:00:00,Customer 282,Consumer,Technology,Printers,Printers 40,10.45,2.59,0.17,3,East,Illinois
+ORD1186,2023-02-07 00:00:00,2023-02-14 00:00:00,Customer 49,Consumer,Office Supplies,Pens,Pens 20,633.17,130.93,0.16,4,South,Illinois
+ORD1187,2023-08-13 00:00:00,2023-08-18 00:00:00,Customer 178,Small Business,Furniture,Tables,Tables 61,887.69,59.97,0.1,7,South,Illinois
+ORD1188,2023-07-16 00:00:00,2023-07-21 00:00:00,Customer 129,Corporate,Furniture,Chairs,Chairs 19,883.84,206.43,0.02,4,West,Florida
+ORD1189,2023-12-15 00:00:00,2023-12-17 00:00:00,Customer 151,Small Business,Furniture,Tables,Tables 84,586.41,132.12,0.16,1,South,California
+ORD1190,2023-06-22 00:00:00,2023-06-26 00:00:00,Customer 186,Corporate,Office Supplies,Binders,Binders 71,880.57,194.74,0.12,4,South,Florida
+ORD1191,2023-04-23 00:00:00,2023-04-24 00:00:00,Customer 282,Consumer,Furniture,Tables,Tables 67,771.57,205.89,0.04,9,East,Texas
+ORD1192,2023-02-27 00:00:00,2023-03-05 00:00:00,Customer 279,Corporate,Office Supplies,Pens,Pens 77,214.88,44.1,0.15,7,Central,California
+ORD1193,2023-09-01 00:00:00,2023-09-05 00:00:00,Customer 19,Home Office,Furniture,Bookcases,Bookcases 83,848.85,232.6,0.15,3,Central,Texas
+ORD1194,2023-09-20 00:00:00,2023-09-21 00:00:00,Customer 238,Consumer,Office Supplies,Paper,Paper 57,767.93,177.97,0.02,7,East,New York
+ORD1195,2023-10-03 00:00:00,2023-10-05 00:00:00,Customer 250,Corporate,Office Supplies,Staplers,Staplers 77,149.48,44.13,0.02,3,West,Illinois
+ORD1196,2023-06-03 00:00:00,2023-06-07 00:00:00,Customer 442,Corporate,Technology,Phones,Phones 93,84.11,18.4,0.03,7,Central,California
+ORD1197,2023-01-21 00:00:00,2023-01-24 00:00:00,Customer 271,Small Business,Office Supplies,Binders,Binders 48,965.94,211.78,0.02,6,South,Texas
+ORD1198,2023-10-08 00:00:00,2023-10-13 00:00:00,Customer 139,Corporate,Office Supplies,Paper,Paper 74,948.02,173.62,0.18,4,East,California
+ORD1199,2023-08-09 00:00:00,2023-08-10 00:00:00,Customer 232,Home Office,Office Supplies,Paper,Paper 97,340.08,71.6,0.15,6,East,California
+ORD1200,2023-12-11 00:00:00,2023-12-14 00:00:00,Customer 397,Home Office,Office Supplies,Staplers,Staplers 74,588.8,160.63,0.04,6,South,California
+ORD1201,2023-04-30 00:00:00,2023-05-07 00:00:00,Customer 471,Home Office,Office Supplies,Paper,Paper 60,676.33,151.34,0.03,5,East,Illinois
+ORD1202,2023-02-20 00:00:00,2023-02-24 00:00:00,Customer 208,Small Business,Technology,Monitors,Monitors 94,571.45,163.67,0.07,10,Central,Illinois
+ORD1203,2023-11-28 00:00:00,2023-12-03 00:00:00,Customer 490,Consumer,Technology,Printers,Printers 2,25.49,6.82,0.07,6,Central,Texas
+ORD1204,2023-04-26 00:00:00,2023-05-01 00:00:00,Customer 28,Consumer,Technology,Printers,Printers 83,105.11,21.8,0.02,7,East,Florida
+ORD1205,2023-12-13 00:00:00,2023-12-19 00:00:00,Customer 219,Small Business,Office Supplies,Pens,Pens 82,121.46,29.77,0.03,7,South,California
+ORD1206,2023-08-07 00:00:00,2023-08-14 00:00:00,Customer 411,Small Business,Office Supplies,Paper,Paper 16,49.26,14.29,0.12,3,South,Florida
+ORD1207,2023-04-06 00:00:00,2023-04-09 00:00:00,Customer 251,Home Office,Furniture,Bookcases,Bookcases 24,572.57,33.72,0.01,6,South,California
+ORD1208,2023-10-05 00:00:00,2023-10-06 00:00:00,Customer 448,Small Business,Office Supplies,Pens,Pens 57,763.58,216.2,0.04,2,South,New York
+ORD1209,2023-05-30 00:00:00,2023-06-04 00:00:00,Customer 81,Corporate,Technology,Phones,Phones 19,826.67,70.88,0.19,1,South,Texas
+ORD1210,2023-03-18 00:00:00,2023-03-22 00:00:00,Customer 363,Consumer,Office Supplies,Paper,Paper 25,147.61,30.6,0.09,3,South,California
+ORD1211,2023-11-21 00:00:00,2023-11-27 00:00:00,Customer 407,Corporate,Technology,Phones,Phones 27,309.65,75.74,0.16,9,South,Florida
+ORD1212,2023-01-07 00:00:00,2023-01-10 00:00:00,Customer 134,Corporate,Office Supplies,Pens,Pens 53,239.11,25,0.18,9,Central,California
+ORD1213,2023-10-18 00:00:00,2023-10-23 00:00:00,Customer 333,Consumer,Office Supplies,Paper,Paper 34,422.87,95.39,0.11,3,East,Texas
+ORD1214,2023-07-28 00:00:00,2023-07-29 00:00:00,Customer 184,Small Business,Furniture,Sofas,Sofas 21,926.66,175.21,0.19,6,Central,California
+ORD1215,2023-05-17 00:00:00,2023-05-20 00:00:00,Customer 239,Consumer,Furniture,Tables,Tables 28,473.72,125.42,0.17,6,Central,Florida
+ORD1216,2023-08-18 00:00:00,2023-08-23 00:00:00,Customer 210,Corporate,Office Supplies,Binders,Binders 80,406.58,87.32,0.09,7,East,Illinois
+ORD1217,2023-03-02 00:00:00,2023-03-08 00:00:00,Customer 326,Home Office,Technology,Phones,Phones 33,387.29,47.87,0.15,6,East,Illinois
+ORD1218,2023-11-20 00:00:00,2023-11-24 00:00:00,Customer 361,Small Business,Furniture,Tables,Tables 66,146.83,34.95,0.13,10,South,New York
+ORD1219,2024-01-01 00:00:00,2024-01-02 00:00:00,Customer 213,Small Business,Office Supplies,Paper,Paper 18,268.88,22.35,0.12,1,West,Illinois
+ORD1220,2023-08-13 00:00:00,2023-08-19 00:00:00,Customer 176,Consumer,Office Supplies,Pens,Pens 64,453.72,55.37,0.19,5,South,New York
+ORD1221,2023-11-01 00:00:00,2023-11-07 00:00:00,Customer 441,Small Business,Furniture,Sofas,Sofas 55,223.14,50.73,0.06,10,Central,California
+ORD1222,2023-07-24 00:00:00,2023-07-25 00:00:00,Customer 157,Small Business,Furniture,Bookcases,Bookcases 88,381.76,77.74,0.11,3,West,Texas
+ORD1223,2023-07-21 00:00:00,2023-07-27 00:00:00,Customer 238,Consumer,Technology,Monitors,Monitors 99,374.11,111.4,0.13,5,East,Illinois
+ORD1224,2023-02-14 00:00:00,2023-02-21 00:00:00,Customer 70,Corporate,Furniture,Sofas,Sofas 96,345.91,75.54,0.02,5,Central,Florida
+ORD1225,2023-11-17 00:00:00,2023-11-19 00:00:00,Customer 313,Consumer,Furniture,Sofas,Sofas 62,416.49,76.52,0.01,2,West,Florida
+ORD1226,2023-09-01 00:00:00,2023-09-05 00:00:00,Customer 484,Corporate,Technology,Laptops,Laptops 37,948.26,87.51,0.05,5,West,California
+ORD1227,2023-04-28 00:00:00,2023-05-05 00:00:00,Customer 267,Corporate,Technology,Monitors,Monitors 57,373.37,107.69,0.02,10,Central,Texas
+ORD1228,2023-08-13 00:00:00,2023-08-18 00:00:00,Customer 299,Consumer,Furniture,Bookcases,Bookcases 48,205.82,50.56,0.03,9,Central,California
+ORD1229,2023-01-30 00:00:00,2023-02-01 00:00:00,Customer 122,Consumer,Furniture,Bookcases,Bookcases 26,477.72,120.54,0.02,4,East,Florida
+ORD1230,2023-01-18 00:00:00,2023-01-25 00:00:00,Customer 486,Consumer,Office Supplies,Binders,Binders 99,705.79,189.52,0.07,5,Central,Illinois
+ORD1231,2023-12-09 00:00:00,2023-12-12 00:00:00,Customer 469,Corporate,Furniture,Sofas,Sofas 19,475.83,121.01,0.01,8,Central,Florida
+ORD1232,2023-01-29 00:00:00,2023-02-03 00:00:00,Customer 185,Small Business,Office Supplies,Binders,Binders 89,618.99,53.97,0.18,5,South,Texas
+ORD1233,2023-04-16 00:00:00,2023-04-19 00:00:00,Customer 247,Consumer,Furniture,Tables,Tables 44,812.94,56.11,0.13,3,West,California
+ORD1234,2023-06-14 00:00:00,2023-06-17 00:00:00,Customer 79,Small Business,Office Supplies,Pens,Pens 16,418.33,87.44,0.19,10,East,Illinois
+ORD1235,2023-09-05 00:00:00,2023-09-08 00:00:00,Customer 455,Corporate,Furniture,Bookcases,Bookcases 20,752.17,104.64,0.07,6,East,California
+ORD1236,2023-09-30 00:00:00,2023-10-06 00:00:00,Customer 368,Consumer,Office Supplies,Paper,Paper 8,627.69,127.71,0.17,5,East,California
+ORD1237,2023-01-12 00:00:00,2023-01-16 00:00:00,Customer 177,Corporate,Office Supplies,Paper,Paper 16,19.29,5.42,0.14,5,East,California
+ORD1238,2023-05-13 00:00:00,2023-05-17 00:00:00,Customer 67,Home Office,Office Supplies,Binders,Binders 42,537.25,79.57,0.06,5,East,Illinois
+ORD1239,2023-08-25 00:00:00,2023-09-01 00:00:00,Customer 109,Corporate,Furniture,Sofas,Sofas 5,352.61,79.85,0.18,1,Central,Texas
+ORD1240,2023-04-24 00:00:00,2023-04-29 00:00:00,Customer 492,Consumer,Furniture,Sofas,Sofas 74,219.8,27.93,0.07,5,East,California
+ORD1241,2023-06-03 00:00:00,2023-06-10 00:00:00,Customer 42,Home Office,Technology,Printers,Printers 44,66.9,13.35,0.04,1,South,California
+ORD1242,2023-01-18 00:00:00,2023-01-20 00:00:00,Customer 158,Consumer,Office Supplies,Staplers,Staplers 42,721.02,63.37,0.15,9,South,Texas
+ORD1243,2023-03-20 00:00:00,2023-03-22 00:00:00,Customer 218,Consumer,Office Supplies,Binders,Binders 2,219.88,27.43,0.1,3,East,Texas
+ORD1244,2023-11-15 00:00:00,2023-11-18 00:00:00,Customer 378,Corporate,Furniture,Chairs,Chairs 59,989.76,165.3,0.11,3,South,California
+ORD1245,2023-08-28 00:00:00,2023-09-02 00:00:00,Customer 467,Small Business,Furniture,Bookcases,Bookcases 83,340.87,80.95,0.02,8,East,Texas
+ORD1246,2023-02-07 00:00:00,2023-02-11 00:00:00,Customer 370,Corporate,Office Supplies,Staplers,Staplers 63,756,164.22,0.12,5,West,California
+ORD1247,2023-04-20 00:00:00,2023-04-24 00:00:00,Customer 322,Home Office,Furniture,Sofas,Sofas 89,939.52,115.25,0.14,2,South,Florida
+ORD1248,2023-06-28 00:00:00,2023-06-30 00:00:00,Customer 467,Home Office,Office Supplies,Staplers,Staplers 93,753.64,171.34,0.07,9,Central,New York
+ORD1249,2023-06-28 00:00:00,2023-07-01 00:00:00,Customer 323,Home Office,Office Supplies,Staplers,Staplers 3,792.28,179.24,0.06,2,Central,California
+ORD1250,2023-02-07 00:00:00,2023-02-13 00:00:00,Customer 433,Small Business,Technology,Printers,Printers 27,918.72,55.54,0.19,9,West,New York
+ORD1251,2023-07-31 00:00:00,2023-08-03 00:00:00,Customer 84,Corporate,Furniture,Tables,Tables 50,415.52,87.51,0.04,2,East,New York
+ORD1252,2023-06-30 00:00:00,2023-07-06 00:00:00,Customer 467,Home Office,Office Supplies,Paper,Paper 51,528.28,134.78,0.07,1,East,Illinois
+ORD1253,2023-12-11 00:00:00,2023-12-12 00:00:00,Customer 393,Consumer,Office Supplies,Pens,Pens 96,612.74,54.87,0.03,5,Central,Texas
+ORD1254,2023-10-19 00:00:00,2023-10-26 00:00:00,Customer 130,Home Office,Technology,Monitors,Monitors 54,377.95,26.34,0.17,4,West,New York
+ORD1255,2023-08-25 00:00:00,2023-08-27 00:00:00,Customer 294,Consumer,Furniture,Tables,Tables 63,48.62,8.15,0.15,4,Central,Illinois
+ORD1256,2023-06-29 00:00:00,2023-07-06 00:00:00,Customer 49,Corporate,Technology,Phones,Phones 48,947.21,277.35,0.1,4,West,California
+ORD1257,2023-04-30 00:00:00,2023-05-01 00:00:00,Customer 264,Home Office,Office Supplies,Staplers,Staplers 28,956.78,128.9,0.11,7,South,California
+ORD1258,2023-12-04 00:00:00,2023-12-07 00:00:00,Customer 411,Home Office,Technology,Monitors,Monitors 30,800.37,91.5,0.04,4,West,Texas
+ORD1259,2023-08-01 00:00:00,2023-08-03 00:00:00,Customer 29,Home Office,Technology,Printers,Printers 13,348.37,52.03,0.09,4,South,New York
+ORD1260,2023-07-02 00:00:00,2023-07-08 00:00:00,Customer 104,Home Office,Furniture,Sofas,Sofas 16,665.73,96.66,0.1,3,South,Texas
+ORD1261,2023-05-29 00:00:00,2023-06-04 00:00:00,Customer 325,Consumer,Furniture,Bookcases,Bookcases 19,250.3,35.01,0,2,East,Florida
+ORD1262,2023-02-02 00:00:00,2023-02-03 00:00:00,Customer 270,Home Office,Office Supplies,Paper,Paper 35,62.58,13.82,0.16,1,West,Texas
+ORD1263,2023-07-28 00:00:00,2023-08-03 00:00:00,Customer 119,Corporate,Technology,Monitors,Monitors 50,695.06,162.68,0.12,1,West,New York
+ORD1264,2023-12-10 00:00:00,2023-12-15 00:00:00,Customer 320,Consumer,Office Supplies,Binders,Binders 67,666.62,57.3,0.13,2,West,Texas
+ORD1265,2023-04-20 00:00:00,2023-04-23 00:00:00,Customer 158,Consumer,Office Supplies,Paper,Paper 2,83.39,18.3,0.02,1,South,California
+ORD1266,2023-03-23 00:00:00,2023-03-28 00:00:00,Customer 178,Small Business,Technology,Laptops,Laptops 85,599.93,40,0.13,1,South,California
+ORD1267,2023-10-03 00:00:00,2023-10-07 00:00:00,Customer 68,Home Office,Office Supplies,Binders,Binders 96,577.01,60.79,0.1,10,East,Texas
+ORD1268,2023-06-25 00:00:00,2023-06-27 00:00:00,Customer 391,Corporate,Technology,Laptops,Laptops 5,417.12,97.33,0.05,8,Central,New York
+ORD1269,2023-11-24 00:00:00,2023-11-26 00:00:00,Customer 72,Consumer,Office Supplies,Binders,Binders 71,704.18,104.33,0,4,Central,Texas
+ORD1270,2023-06-15 00:00:00,2023-06-16 00:00:00,Customer 198,Corporate,Office Supplies,Paper,Paper 36,753.72,162.19,0.05,6,Central,New York
+ORD1271,2023-02-17 00:00:00,2023-02-23 00:00:00,Customer 310,Small Business,Office Supplies,Binders,Binders 49,390.03,113.2,0.17,8,West,California
+ORD1272,2023-01-10 00:00:00,2023-01-15 00:00:00,Customer 346,Consumer,Technology,Monitors,Monitors 9,39.95,3.94,0.19,2,South,New York
+ORD1273,2023-02-04 00:00:00,2023-02-09 00:00:00,Customer 61,Home Office,Technology,Monitors,Monitors 35,129.39,25.68,0.08,8,West,Florida
+ORD1274,2023-11-06 00:00:00,2023-11-13 00:00:00,Customer 488,Home Office,Furniture,Tables,Tables 13,664.65,99.71,0.19,3,Central,Florida
+ORD1275,2023-09-03 00:00:00,2023-09-09 00:00:00,Customer 468,Small Business,Technology,Printers,Printers 86,149.86,19.35,0.18,1,East,California
+ORD1276,2023-01-07 00:00:00,2023-01-10 00:00:00,Customer 330,Home Office,Furniture,Bookcases,Bookcases 19,733.77,97.74,0.13,5,West,Florida
+ORD1277,2023-01-01 00:00:00,2023-01-08 00:00:00,Customer 62,Home Office,Technology,Laptops,Laptops 75,701.07,120.5,0.19,4,Central,California
+ORD1278,2023-04-20 00:00:00,2023-04-22 00:00:00,Customer 209,Home Office,Technology,Printers,Printers 41,999.51,236.57,0.13,10,Central,Illinois
+ORD1279,2023-01-16 00:00:00,2023-01-22 00:00:00,Customer 189,Small Business,Office Supplies,Binders,Binders 95,979.19,274.02,0.18,7,South,California
+ORD1280,2023-05-21 00:00:00,2023-05-26 00:00:00,Customer 436,Consumer,Technology,Laptops,Laptops 11,896.51,117.55,0.06,4,South,New York
+ORD1281,2023-01-17 00:00:00,2023-01-24 00:00:00,Customer 72,Home Office,Furniture,Bookcases,Bookcases 23,366.58,88.82,0.16,9,East,Texas
+ORD1282,2023-03-07 00:00:00,2023-03-09 00:00:00,Customer 366,Consumer,Furniture,Bookcases,Bookcases 43,131.97,7.18,0.19,1,West,Florida
+ORD1283,2023-08-08 00:00:00,2023-08-09 00:00:00,Customer 110,Small Business,Furniture,Bookcases,Bookcases 23,199.85,17.88,0.08,7,South,New York
+ORD1284,2023-04-24 00:00:00,2023-04-30 00:00:00,Customer 457,Home Office,Furniture,Bookcases,Bookcases 87,314.72,93.04,0.16,4,Central,California
+ORD1285,2023-01-22 00:00:00,2023-01-28 00:00:00,Customer 92,Home Office,Furniture,Sofas,Sofas 17,576.42,80.41,0.2,7,South,Illinois
+ORD1286,2023-10-23 00:00:00,2023-10-25 00:00:00,Customer 274,Corporate,Technology,Monitors,Monitors 99,627.7,99.17,0.14,6,South,California
+ORD1287,2023-01-11 00:00:00,2023-01-15 00:00:00,Customer 351,Small Business,Furniture,Chairs,Chairs 3,194.72,50.58,0.11,10,West,California
+ORD1288,2023-01-31 00:00:00,2023-02-04 00:00:00,Customer 26,Corporate,Office Supplies,Staplers,Staplers 49,21.26,5.77,0.15,5,West,California
+ORD1289,2023-07-05 00:00:00,2023-07-12 00:00:00,Customer 62,Home Office,Technology,Monitors,Monitors 67,815.66,158.22,0.04,1,Central,California
+ORD1290,2023-01-22 00:00:00,2023-01-26 00:00:00,Customer 213,Home Office,Office Supplies,Binders,Binders 35,50.03,2.89,0.14,3,West,California
+ORD1291,2023-06-06 00:00:00,2023-06-12 00:00:00,Customer 168,Small Business,Technology,Phones,Phones 31,367.44,95.33,0.12,4,Central,New York
+ORD1292,2023-07-18 00:00:00,2023-07-20 00:00:00,Customer 348,Small Business,Office Supplies,Pens,Pens 99,426.04,126.63,0.15,2,Central,California
+ORD1293,2023-06-01 00:00:00,2023-06-07 00:00:00,Customer 96,Corporate,Office Supplies,Pens,Pens 54,973.06,255.61,0.01,7,East,Florida
+ORD1294,2023-06-24 00:00:00,2023-06-27 00:00:00,Customer 160,Small Business,Furniture,Chairs,Chairs 99,999.77,163.39,0.01,10,East,Texas
+ORD1295,2023-04-20 00:00:00,2023-04-22 00:00:00,Customer 1,Home Office,Technology,Printers,Printers 93,79.62,23.49,0.11,1,Central,California
+ORD1296,2023-10-25 00:00:00,2023-10-30 00:00:00,Customer 167,Home Office,Office Supplies,Binders,Binders 80,432.21,66.86,0,2,South,Texas
+ORD1297,2023-12-04 00:00:00,2023-12-05 00:00:00,Customer 26,Consumer,Technology,Printers,Printers 57,368.23,102.18,0.11,3,West,Texas
+ORD1298,2023-02-24 00:00:00,2023-02-28 00:00:00,Customer 195,Small Business,Technology,Monitors,Monitors 50,732.74,150.34,0.16,10,East,California
+ORD1299,2023-04-28 00:00:00,2023-05-05 00:00:00,Customer 118,Home Office,Office Supplies,Binders,Binders 9,75.72,6.74,0.11,1,Central,Texas
+ORD1300,2023-04-18 00:00:00,2023-04-23 00:00:00,Customer 380,Corporate,Technology,Laptops,Laptops 59,97.07,15.23,0.15,10,West,California
+ORD1301,2023-12-06 00:00:00,2023-12-08 00:00:00,Customer 189,Home Office,Furniture,Sofas,Sofas 32,635.62,56.04,0.1,7,Central,New York
+ORD1302,2023-03-10 00:00:00,2023-03-14 00:00:00,Customer 231,Consumer,Technology,Monitors,Monitors 96,661.8,168.57,0,2,East,Illinois
+ORD1303,2023-03-12 00:00:00,2023-03-17 00:00:00,Customer 135,Consumer,Technology,Phones,Phones 11,877.41,139.09,0.07,8,East,Texas
+ORD1304,2023-07-13 00:00:00,2023-07-15 00:00:00,Customer 214,Corporate,Technology,Monitors,Monitors 34,885.12,108.67,0.1,5,East,Illinois
+ORD1305,2023-10-29 00:00:00,2023-11-05 00:00:00,Customer 325,Small Business,Furniture,Tables,Tables 27,529.29,136.95,0.15,2,East,Texas
+ORD1306,2023-05-22 00:00:00,2023-05-29 00:00:00,Customer 281,Small Business,Technology,Laptops,Laptops 20,524.05,95.78,0.02,2,West,Texas
+ORD1307,2023-06-25 00:00:00,2023-06-30 00:00:00,Customer 148,Corporate,Technology,Laptops,Laptops 31,134.21,31.18,0.11,4,East,Illinois
+ORD1308,2023-07-04 00:00:00,2023-07-05 00:00:00,Customer 475,Consumer,Technology,Phones,Phones 49,303.85,79.95,0.05,1,Central,Texas
+ORD1309,2023-08-05 00:00:00,2023-08-09 00:00:00,Customer 114,Corporate,Office Supplies,Paper,Paper 60,62.04,8.52,0.03,4,East,California
+ORD1310,2023-10-13 00:00:00,2023-10-15 00:00:00,Customer 266,Small Business,Office Supplies,Binders,Binders 58,557.24,89.4,0.1,4,Central,California
+ORD1311,2023-04-22 00:00:00,2023-04-29 00:00:00,Customer 238,Consumer,Technology,Laptops,Laptops 72,708.86,125.76,0.03,3,West,Illinois
+ORD1312,2023-06-29 00:00:00,2023-07-01 00:00:00,Customer 459,Consumer,Technology,Monitors,Monitors 71,352.36,42.52,0.18,9,West,Texas
+ORD1313,2023-01-26 00:00:00,2023-01-27 00:00:00,Customer 218,Corporate,Technology,Phones,Phones 89,735.3,158.9,0.12,1,West,Texas
+ORD1314,2023-11-25 00:00:00,2023-11-26 00:00:00,Customer 9,Corporate,Technology,Phones,Phones 70,96.74,27.44,0.17,3,East,California
+ORD1315,2023-07-18 00:00:00,2023-07-21 00:00:00,Customer 340,Small Business,Office Supplies,Binders,Binders 85,215.37,26.91,0.05,10,West,Illinois
+ORD1316,2023-11-05 00:00:00,2023-11-08 00:00:00,Customer 350,Consumer,Office Supplies,Staplers,Staplers 38,834.98,236.92,0.2,3,East,Florida
+ORD1317,2023-05-21 00:00:00,2023-05-25 00:00:00,Customer 272,Consumer,Technology,Phones,Phones 90,408.55,50.74,0.17,9,East,Texas
+ORD1318,2023-12-29 00:00:00,2024-01-05 00:00:00,Customer 206,Home Office,Office Supplies,Paper,Paper 57,763.92,179.79,0.14,3,South,New York
+ORD1319,2023-05-06 00:00:00,2023-05-12 00:00:00,Customer 430,Corporate,Furniture,Chairs,Chairs 80,718.96,47.77,0.13,2,East,Illinois
+ORD1320,2023-07-20 00:00:00,2023-07-21 00:00:00,Customer 344,Home Office,Furniture,Bookcases,Bookcases 99,613.58,141.64,0.18,3,Central,Illinois
+ORD1321,2023-06-21 00:00:00,2023-06-25 00:00:00,Customer 499,Consumer,Furniture,Tables,Tables 28,226.74,14.21,0.12,6,West,Illinois
+ORD1322,2023-09-08 00:00:00,2023-09-14 00:00:00,Customer 256,Small Business,Technology,Laptops,Laptops 9,635.15,137.18,0.05,2,West,California
+ORD1323,2023-08-07 00:00:00,2023-08-10 00:00:00,Customer 303,Corporate,Office Supplies,Paper,Paper 78,601.4,169.82,0.1,1,West,Florida
+ORD1324,2023-04-19 00:00:00,2023-04-25 00:00:00,Customer 131,Consumer,Technology,Laptops,Laptops 8,844.36,52.35,0.19,3,Central,Texas
+ORD1325,2023-03-22 00:00:00,2023-03-28 00:00:00,Customer 35,Consumer,Furniture,Tables,Tables 12,936.45,76.94,0.19,7,Central,Illinois
+ORD1326,2023-05-25 00:00:00,2023-05-29 00:00:00,Customer 255,Consumer,Office Supplies,Binders,Binders 36,565.42,155.02,0.01,4,South,California
+ORD1327,2023-01-22 00:00:00,2023-01-25 00:00:00,Customer 491,Corporate,Technology,Phones,Phones 44,274.22,19,0.03,8,South,Texas
+ORD1328,2023-03-19 00:00:00,2023-03-24 00:00:00,Customer 178,Consumer,Technology,Phones,Phones 66,421.38,51.88,0.06,2,South,California
+ORD1329,2023-08-29 00:00:00,2023-09-05 00:00:00,Customer 121,Home Office,Furniture,Chairs,Chairs 23,389.17,66.71,0.04,6,Central,California
+ORD1330,2023-01-05 00:00:00,2023-01-06 00:00:00,Customer 118,Corporate,Office Supplies,Paper,Paper 97,960.91,207.88,0.07,4,West,Florida
+ORD1331,2023-11-29 00:00:00,2023-11-30 00:00:00,Customer 487,Home Office,Office Supplies,Staplers,Staplers 27,125.9,16.86,0.13,10,Central,Florida
+ORD1332,2023-07-28 00:00:00,2023-07-31 00:00:00,Customer 157,Corporate,Technology,Phones,Phones 99,894.08,151.2,0.08,10,West,New York
+ORD1333,2023-08-04 00:00:00,2023-08-07 00:00:00,Customer 496,Home Office,Furniture,Tables,Tables 66,432.98,59,0.02,1,West,Illinois
+ORD1334,2023-08-18 00:00:00,2023-08-24 00:00:00,Customer 404,Consumer,Technology,Phones,Phones 86,219.54,46,0.18,10,South,New York
+ORD1335,2023-06-26 00:00:00,2023-07-02 00:00:00,Customer 315,Home Office,Furniture,Bookcases,Bookcases 5,543.33,132.56,0.11,2,South,Florida
+ORD1336,2023-12-07 00:00:00,2023-12-10 00:00:00,Customer 35,Corporate,Furniture,Sofas,Sofas 83,879.16,200.8,0.07,8,East,Florida
+ORD1337,2023-01-03 00:00:00,2023-01-08 00:00:00,Customer 413,Consumer,Office Supplies,Pens,Pens 70,936.36,80.64,0.15,6,South,Texas
+ORD1338,2023-05-13 00:00:00,2023-05-18 00:00:00,Customer 330,Small Business,Furniture,Bookcases,Bookcases 91,198.89,12.4,0.19,2,East,Texas
+ORD1339,2023-11-16 00:00:00,2023-11-23 00:00:00,Customer 64,Small Business,Technology,Monitors,Monitors 98,44.18,6.35,0.04,7,East,New York
+ORD1340,2023-10-08 00:00:00,2023-10-09 00:00:00,Customer 156,Small Business,Office Supplies,Staplers,Staplers 44,921.2,82.9,0.17,8,East,California
+ORD1341,2023-06-11 00:00:00,2023-06-13 00:00:00,Customer 177,Consumer,Furniture,Sofas,Sofas 80,951.97,136,0.15,5,East,Texas
+ORD1342,2023-06-22 00:00:00,2023-06-24 00:00:00,Customer 284,Corporate,Furniture,Bookcases,Bookcases 30,912.3,209.84,0.2,8,East,Florida
+ORD1343,2023-04-23 00:00:00,2023-04-28 00:00:00,Customer 445,Small Business,Office Supplies,Paper,Paper 72,878.95,235.86,0.06,4,South,Texas
+ORD1344,2023-06-23 00:00:00,2023-06-29 00:00:00,Customer 72,Consumer,Office Supplies,Pens,Pens 17,813.87,74.77,0.07,3,West,Texas
+ORD1345,2023-03-22 00:00:00,2023-03-24 00:00:00,Customer 2,Consumer,Office Supplies,Binders,Binders 10,283.13,61.49,0.2,4,West,Illinois
+ORD1346,2023-01-14 00:00:00,2023-01-19 00:00:00,Customer 181,Home Office,Furniture,Chairs,Chairs 38,734.69,64.29,0.06,1,West,Illinois
+ORD1347,2023-09-13 00:00:00,2023-09-18 00:00:00,Customer 348,Home Office,Office Supplies,Paper,Paper 96,60.83,6.63,0.03,8,West,New York
+ORD1348,2023-12-13 00:00:00,2023-12-16 00:00:00,Customer 308,Corporate,Furniture,Bookcases,Bookcases 4,237.8,22.33,0.04,7,Central,New York
+ORD1349,2023-06-16 00:00:00,2023-06-18 00:00:00,Customer 303,Consumer,Technology,Laptops,Laptops 14,30.53,7.64,0.09,3,West,California
+ORD1350,2023-01-09 00:00:00,2023-01-15 00:00:00,Customer 494,Small Business,Technology,Laptops,Laptops 74,330.78,75.75,0.09,4,South,Florida
+ORD1351,2023-11-10 00:00:00,2023-11-15 00:00:00,Customer 442,Consumer,Technology,Monitors,Monitors 89,58.01,13.19,0.09,1,East,Illinois
+ORD1352,2023-09-12 00:00:00,2023-09-15 00:00:00,Customer 313,Home Office,Furniture,Tables,Tables 35,473.81,126.47,0.14,6,South,Illinois
+ORD1353,2023-08-07 00:00:00,2023-08-12 00:00:00,Customer 210,Consumer,Technology,Laptops,Laptops 63,266.65,23.2,0.01,1,East,New York
+ORD1354,2023-02-18 00:00:00,2023-02-25 00:00:00,Customer 49,Corporate,Furniture,Tables,Tables 23,149.21,44.62,0.09,2,South,California
+ORD1355,2023-03-07 00:00:00,2023-03-14 00:00:00,Customer 166,Corporate,Technology,Monitors,Monitors 55,558.2,52.33,0.11,8,West,New York
+ORD1356,2023-10-14 00:00:00,2023-10-16 00:00:00,Customer 434,Small Business,Technology,Laptops,Laptops 66,81.76,16.75,0.06,8,East,Texas
+ORD1357,2023-06-03 00:00:00,2023-06-07 00:00:00,Customer 422,Small Business,Technology,Monitors,Monitors 24,488.7,29.49,0.12,10,East,California
+ORD1358,2023-02-24 00:00:00,2023-03-01 00:00:00,Customer 198,Small Business,Furniture,Sofas,Sofas 9,932.7,102.42,0.19,6,West,Illinois
+ORD1359,2023-12-08 00:00:00,2023-12-15 00:00:00,Customer 65,Home Office,Furniture,Sofas,Sofas 64,650.58,60.23,0.07,9,East,California
+ORD1360,2023-07-28 00:00:00,2023-08-03 00:00:00,Customer 121,Small Business,Furniture,Tables,Tables 11,254.7,75.11,0.02,9,East,Illinois
+ORD1361,2023-08-16 00:00:00,2023-08-20 00:00:00,Customer 267,Corporate,Furniture,Chairs,Chairs 59,823.88,74.68,0.12,9,South,Texas
+ORD1362,2023-11-14 00:00:00,2023-11-19 00:00:00,Customer 438,Home Office,Technology,Printers,Printers 84,554.06,88.35,0.04,8,Central,Illinois
+ORD1363,2023-01-03 00:00:00,2023-01-07 00:00:00,Customer 489,Corporate,Office Supplies,Pens,Pens 65,634.92,150.23,0.11,9,East,Illinois
+ORD1364,2023-06-28 00:00:00,2023-07-02 00:00:00,Customer 377,Corporate,Technology,Monitors,Monitors 91,894.28,108.71,0.08,6,South,California
+ORD1365,2023-01-26 00:00:00,2023-01-27 00:00:00,Customer 107,Consumer,Furniture,Chairs,Chairs 64,11.42,1.94,0.05,7,West,Texas
+ORD1366,2023-10-08 00:00:00,2023-10-12 00:00:00,Customer 468,Corporate,Office Supplies,Staplers,Staplers 28,483.61,59.67,0.08,8,South,New York
+ORD1367,2023-07-18 00:00:00,2023-07-25 00:00:00,Customer 290,Home Office,Office Supplies,Pens,Pens 11,833.85,246.63,0.18,9,East,Texas
+ORD1368,2023-05-10 00:00:00,2023-05-15 00:00:00,Customer 201,Home Office,Furniture,Sofas,Sofas 35,833.72,91.99,0.06,8,East,Texas
+ORD1369,2023-07-09 00:00:00,2023-07-10 00:00:00,Customer 486,Corporate,Furniture,Sofas,Sofas 22,571.27,106.72,0.15,8,East,Illinois
+ORD1370,2023-04-30 00:00:00,2023-05-05 00:00:00,Customer 301,Home Office,Technology,Phones,Phones 22,658.81,81.92,0.15,2,West,Texas
+ORD1371,2023-03-19 00:00:00,2023-03-21 00:00:00,Customer 138,Consumer,Technology,Phones,Phones 89,521.97,149.42,0.15,4,Central,New York
+ORD1372,2023-01-21 00:00:00,2023-01-22 00:00:00,Customer 57,Small Business,Technology,Phones,Phones 87,787.74,157.66,0.05,5,East,Illinois
+ORD1373,2023-04-28 00:00:00,2023-05-04 00:00:00,Customer 432,Small Business,Furniture,Sofas,Sofas 45,572,47.49,0.02,8,Central,Illinois
+ORD1374,2023-12-05 00:00:00,2023-12-07 00:00:00,Customer 367,Home Office,Technology,Printers,Printers 61,110.85,6.83,0.02,4,South,California
+ORD1375,2023-10-20 00:00:00,2023-10-26 00:00:00,Customer 386,Consumer,Office Supplies,Staplers,Staplers 72,739,96.14,0.17,9,Central,Illinois
+ORD1376,2023-02-26 00:00:00,2023-03-03 00:00:00,Customer 411,Small Business,Technology,Monitors,Monitors 80,163.79,41.36,0.11,8,West,Illinois
+ORD1377,2023-10-28 00:00:00,2023-10-30 00:00:00,Customer 429,Consumer,Furniture,Tables,Tables 21,296.55,36.86,0.12,10,South,Illinois
+ORD1378,2023-11-26 00:00:00,2023-12-01 00:00:00,Customer 458,Consumer,Technology,Phones,Phones 58,192.83,42.32,0.08,3,South,Illinois
+ORD1379,2023-09-09 00:00:00,2023-09-15 00:00:00,Customer 60,Home Office,Technology,Phones,Phones 57,652.79,178.02,0.08,4,South,Illinois
+ORD1380,2023-06-07 00:00:00,2023-06-13 00:00:00,Customer 126,Home Office,Office Supplies,Paper,Paper 95,842.57,116.37,0.19,2,Central,Texas
+ORD1381,2023-08-03 00:00:00,2023-08-09 00:00:00,Customer 242,Consumer,Office Supplies,Pens,Pens 85,136.41,40.07,0.05,8,South,Texas
+ORD1382,2023-02-13 00:00:00,2023-02-20 00:00:00,Customer 346,Consumer,Furniture,Bookcases,Bookcases 4,70.51,8.22,0.1,5,East,California
+ORD1383,2023-08-14 00:00:00,2023-08-17 00:00:00,Customer 63,Corporate,Furniture,Bookcases,Bookcases 19,506.03,110.73,0.18,9,South,New York
+ORD1384,2023-08-29 00:00:00,2023-08-30 00:00:00,Customer 369,Small Business,Technology,Laptops,Laptops 19,333.6,86.92,0.11,8,East,Texas
+ORD1385,2023-10-24 00:00:00,2023-10-28 00:00:00,Customer 58,Corporate,Furniture,Sofas,Sofas 51,569.09,158.91,0.12,1,South,Florida
+ORD1386,2023-06-03 00:00:00,2023-06-06 00:00:00,Customer 158,Consumer,Technology,Monitors,Monitors 81,647.25,187.01,0.08,9,South,Illinois
+ORD1387,2023-09-06 00:00:00,2023-09-07 00:00:00,Customer 473,Small Business,Technology,Printers,Printers 49,155.84,37.01,0.19,9,West,California
+ORD1388,2023-08-22 00:00:00,2023-08-29 00:00:00,Customer 31,Consumer,Furniture,Tables,Tables 58,270.54,69.7,0.02,1,East,Texas
+ORD1389,2023-05-03 00:00:00,2023-05-05 00:00:00,Customer 284,Small Business,Office Supplies,Staplers,Staplers 62,233.57,66.24,0.18,10,South,Illinois
+ORD1390,2023-05-02 00:00:00,2023-05-05 00:00:00,Customer 252,Consumer,Furniture,Bookcases,Bookcases 54,923.74,180.94,0.1,1,South,Illinois
+ORD1391,2023-01-11 00:00:00,2023-01-13 00:00:00,Customer 83,Small Business,Furniture,Bookcases,Bookcases 29,740.19,104.88,0.12,5,Central,Florida
+ORD1392,2023-01-17 00:00:00,2023-01-22 00:00:00,Customer 86,Corporate,Office Supplies,Pens,Pens 7,613.99,65.48,0.15,9,South,Texas
+ORD1393,2023-10-15 00:00:00,2023-10-16 00:00:00,Customer 251,Corporate,Furniture,Chairs,Chairs 30,477.29,89.9,0.07,9,Central,Illinois
+ORD1394,2023-07-14 00:00:00,2023-07-17 00:00:00,Customer 260,Corporate,Furniture,Sofas,Sofas 70,636.29,163.77,0.08,1,West,Florida
+ORD1395,2023-09-29 00:00:00,2023-10-05 00:00:00,Customer 357,Home Office,Furniture,Sofas,Sofas 63,967.13,56.1,0.09,1,South,Illinois
+ORD1396,2023-01-24 00:00:00,2023-01-29 00:00:00,Customer 324,Home Office,Office Supplies,Staplers,Staplers 91,967.04,279.99,0.07,10,West,California
+ORD1397,2023-07-16 00:00:00,2023-07-21 00:00:00,Customer 88,Small Business,Office Supplies,Pens,Pens 53,16.33,4.17,0.03,9,East,New York
+ORD1398,2023-01-27 00:00:00,2023-02-02 00:00:00,Customer 299,Corporate,Office Supplies,Staplers,Staplers 97,89.16,4.46,0.07,10,South,Florida
+ORD1399,2023-09-08 00:00:00,2023-09-15 00:00:00,Customer 391,Consumer,Furniture,Chairs,Chairs 2,928.63,248.58,0.09,2,West,California
+ORD1400,2023-04-02 00:00:00,2023-04-04 00:00:00,Customer 101,Corporate,Office Supplies,Pens,Pens 96,375.33,19.91,0.05,9,South,Texas
+ORD1401,2023-05-28 00:00:00,2023-06-03 00:00:00,Customer 417,Corporate,Office Supplies,Paper,Paper 45,93.57,20.89,0.15,5,Central,California
+ORD1402,2023-10-04 00:00:00,2023-10-11 00:00:00,Customer 243,Small Business,Furniture,Tables,Tables 33,944.4,107.08,0.07,8,Central,Illinois
+ORD1403,2023-06-12 00:00:00,2023-06-13 00:00:00,Customer 190,Corporate,Office Supplies,Paper,Paper 31,808.24,88.29,0.11,9,East,California
+ORD1404,2023-01-24 00:00:00,2023-01-28 00:00:00,Customer 22,Consumer,Furniture,Sofas,Sofas 37,795.43,211.77,0.09,2,Central,Texas
+ORD1405,2023-06-07 00:00:00,2023-06-14 00:00:00,Customer 411,Home Office,Furniture,Bookcases,Bookcases 57,682.24,113.24,0.06,9,South,Florida
+ORD1406,2023-01-24 00:00:00,2023-01-30 00:00:00,Customer 385,Home Office,Office Supplies,Staplers,Staplers 81,268.96,68.89,0.11,2,East,Texas
+ORD1407,2023-06-19 00:00:00,2023-06-26 00:00:00,Customer 372,Small Business,Furniture,Tables,Tables 28,364.28,69.9,0.03,4,South,California
+ORD1408,2023-08-16 00:00:00,2023-08-20 00:00:00,Customer 481,Corporate,Office Supplies,Staplers,Staplers 8,597.62,149.68,0.13,6,East,Texas
+ORD1409,2023-04-29 00:00:00,2023-04-30 00:00:00,Customer 153,Corporate,Office Supplies,Paper,Paper 29,666.18,94.25,0.03,8,South,California
+ORD1410,2023-07-02 00:00:00,2023-07-04 00:00:00,Customer 111,Home Office,Technology,Laptops,Laptops 4,167.37,12.27,0.01,2,East,California
+ORD1411,2023-07-30 00:00:00,2023-08-02 00:00:00,Customer 130,Corporate,Technology,Monitors,Monitors 16,402.99,28.36,0.06,9,Central,California
+ORD1412,2023-09-21 00:00:00,2023-09-27 00:00:00,Customer 64,Corporate,Furniture,Bookcases,Bookcases 69,42.76,5.26,0.05,2,South,California
+ORD1413,2023-03-04 00:00:00,2023-03-07 00:00:00,Customer 293,Small Business,Furniture,Bookcases,Bookcases 48,225.67,34.5,0.13,9,West,California
+ORD1414,2023-03-14 00:00:00,2023-03-17 00:00:00,Customer 41,Consumer,Furniture,Chairs,Chairs 30,386.05,38.38,0.07,4,South,New York
+ORD1415,2023-07-04 00:00:00,2023-07-06 00:00:00,Customer 287,Consumer,Office Supplies,Binders,Binders 18,122,34.05,0.13,2,South,New York
+ORD1416,2023-10-09 00:00:00,2023-10-10 00:00:00,Customer 203,Home Office,Furniture,Bookcases,Bookcases 37,627.52,137.84,0.07,10,South,California
+ORD1417,2023-11-15 00:00:00,2023-11-17 00:00:00,Customer 358,Home Office,Furniture,Bookcases,Bookcases 39,466.64,23.34,0.01,6,South,Illinois
+ORD1418,2023-12-04 00:00:00,2023-12-07 00:00:00,Customer 391,Home Office,Furniture,Tables,Tables 3,460.31,26.81,0.11,9,East,Illinois
+ORD1419,2023-11-10 00:00:00,2023-11-15 00:00:00,Customer 399,Corporate,Technology,Monitors,Monitors 22,939.94,133.88,0.09,7,West,Illinois
+ORD1420,2023-05-03 00:00:00,2023-05-04 00:00:00,Customer 189,Corporate,Technology,Phones,Phones 45,190.15,30.13,0.02,5,Central,Texas
+ORD1421,2023-06-15 00:00:00,2023-06-16 00:00:00,Customer 214,Corporate,Technology,Phones,Phones 25,538.43,47.96,0.01,5,South,Florida
+ORD1422,2023-10-15 00:00:00,2023-10-16 00:00:00,Customer 192,Corporate,Office Supplies,Staplers,Staplers 11,870.82,179.42,0.13,1,West,Illinois
+ORD1423,2023-08-17 00:00:00,2023-08-23 00:00:00,Customer 482,Consumer,Furniture,Sofas,Sofas 88,926.98,237.14,0,1,Central,California
+ORD1424,2023-03-09 00:00:00,2023-03-11 00:00:00,Customer 378,Small Business,Office Supplies,Staplers,Staplers 32,713.86,157.25,0.08,5,West,Texas
+ORD1425,2023-04-28 00:00:00,2023-04-30 00:00:00,Customer 394,Corporate,Furniture,Tables,Tables 73,610.75,94.61,0.13,5,East,Illinois
+ORD1426,2023-09-25 00:00:00,2023-09-28 00:00:00,Customer 305,Corporate,Furniture,Chairs,Chairs 56,992.05,203.86,0.03,9,East,New York
+ORD1427,2023-02-05 00:00:00,2023-02-07 00:00:00,Customer 16,Consumer,Technology,Printers,Printers 62,635.97,112.31,0.16,8,West,Illinois
+ORD1428,2023-11-14 00:00:00,2023-11-21 00:00:00,Customer 218,Home Office,Technology,Printers,Printers 58,348.02,55.69,0.09,7,West,Texas
+ORD1429,2023-10-14 00:00:00,2023-10-15 00:00:00,Customer 118,Corporate,Technology,Laptops,Laptops 92,617.86,139.55,0.13,9,West,New York
+ORD1430,2023-12-23 00:00:00,2023-12-25 00:00:00,Customer 220,Corporate,Office Supplies,Binders,Binders 27,706.31,138.03,0.01,4,Central,California
+ORD1431,2023-08-20 00:00:00,2023-08-27 00:00:00,Customer 274,Small Business,Technology,Laptops,Laptops 76,86.89,11.47,0.18,9,West,New York
+ORD1432,2023-08-01 00:00:00,2023-08-04 00:00:00,Customer 392,Corporate,Technology,Printers,Printers 43,116.29,25.38,0.14,5,West,Texas
+ORD1433,2023-01-15 00:00:00,2023-01-19 00:00:00,Customer 208,Consumer,Technology,Printers,Printers 65,85.56,7.54,0.06,6,East,Texas
+ORD1434,2023-07-03 00:00:00,2023-07-05 00:00:00,Customer 237,Home Office,Office Supplies,Paper,Paper 63,323.78,39.67,0.15,1,South,Texas
+ORD1435,2023-11-25 00:00:00,2023-11-28 00:00:00,Customer 423,Small Business,Furniture,Tables,Tables 47,300.46,48.83,0.14,3,West,New York
+ORD1436,2023-02-04 00:00:00,2023-02-07 00:00:00,Customer 473,Corporate,Technology,Laptops,Laptops 61,375.9,20.22,0.14,4,South,Florida
+ORD1437,2023-11-06 00:00:00,2023-11-07 00:00:00,Customer 77,Small Business,Office Supplies,Binders,Binders 90,436.18,52.91,0.18,9,South,New York
+ORD1438,2023-02-08 00:00:00,2023-02-15 00:00:00,Customer 420,Corporate,Office Supplies,Pens,Pens 94,311.6,36.48,0.02,4,West,California
+ORD1439,2023-04-23 00:00:00,2023-04-27 00:00:00,Customer 371,Corporate,Furniture,Bookcases,Bookcases 22,701.68,35.5,0.08,9,South,California
+ORD1440,2023-05-28 00:00:00,2023-05-29 00:00:00,Customer 2,Consumer,Office Supplies,Staplers,Staplers 90,483.35,116.75,0.18,10,South,Florida
+ORD1441,2023-03-28 00:00:00,2023-03-31 00:00:00,Customer 338,Small Business,Furniture,Tables,Tables 57,956.98,196.17,0.11,4,West,Texas
+ORD1442,2023-11-28 00:00:00,2023-12-01 00:00:00,Customer 300,Small Business,Technology,Laptops,Laptops 75,629.07,66.53,0.13,10,West,Florida
+ORD1443,2023-04-26 00:00:00,2023-05-01 00:00:00,Customer 37,Home Office,Technology,Printers,Printers 16,895.82,177.26,0.02,4,East,Florida
+ORD1444,2023-01-19 00:00:00,2023-01-26 00:00:00,Customer 115,Home Office,Furniture,Tables,Tables 50,978.01,278.74,0.18,9,West,California
+ORD1445,2023-04-14 00:00:00,2023-04-17 00:00:00,Customer 386,Home Office,Furniture,Sofas,Sofas 47,966.43,274.87,0.03,5,East,New York
+ORD1446,2023-03-01 00:00:00,2023-03-03 00:00:00,Customer 67,Consumer,Furniture,Chairs,Chairs 21,893.55,217.35,0.06,4,West,Texas
+ORD1447,2023-04-01 00:00:00,2023-04-02 00:00:00,Customer 95,Home Office,Technology,Printers,Printers 86,225.86,67.69,0.19,5,East,California
+ORD1448,2023-12-19 00:00:00,2023-12-22 00:00:00,Customer 81,Small Business,Technology,Phones,Phones 3,926.09,261.66,0.19,6,South,Texas
+ORD1449,2023-05-01 00:00:00,2023-05-07 00:00:00,Customer 328,Corporate,Technology,Laptops,Laptops 22,534.48,108,0.14,3,South,Florida
+ORD1450,2023-03-04 00:00:00,2023-03-07 00:00:00,Customer 157,Consumer,Office Supplies,Paper,Paper 89,546.58,158.19,0.13,8,West,New York
+ORD1451,2023-12-06 00:00:00,2023-12-11 00:00:00,Customer 59,Home Office,Office Supplies,Staplers,Staplers 45,960.37,119.17,0.2,1,Central,California
+ORD1452,2023-10-18 00:00:00,2023-10-21 00:00:00,Customer 206,Corporate,Office Supplies,Pens,Pens 57,490.3,101.64,0.13,10,Central,California
+ORD1453,2023-05-14 00:00:00,2023-05-18 00:00:00,Customer 452,Corporate,Technology,Laptops,Laptops 42,234.64,17.89,0.13,6,Central,Texas
+ORD1454,2023-02-11 00:00:00,2023-02-16 00:00:00,Customer 226,Small Business,Office Supplies,Paper,Paper 46,290.48,54.94,0.06,5,Central,New York
+ORD1455,2023-09-20 00:00:00,2023-09-27 00:00:00,Customer 34,Small Business,Office Supplies,Paper,Paper 13,342.88,34.76,0.15,1,Central,Illinois
+ORD1456,2023-12-11 00:00:00,2023-12-17 00:00:00,Customer 249,Corporate,Office Supplies,Binders,Binders 54,559.84,167.29,0.11,7,Central,Florida
+ORD1457,2023-09-26 00:00:00,2023-09-29 00:00:00,Customer 421,Consumer,Furniture,Bookcases,Bookcases 53,347.51,68.96,0.07,9,Central,California
+ORD1458,2023-02-07 00:00:00,2023-02-09 00:00:00,Customer 114,Corporate,Office Supplies,Pens,Pens 9,923.66,156.58,0.12,3,Central,California
+ORD1459,2023-12-03 00:00:00,2023-12-08 00:00:00,Customer 105,Small Business,Office Supplies,Staplers,Staplers 21,210.06,39.03,0.16,5,South,California
+ORD1460,2023-12-27 00:00:00,2023-12-31 00:00:00,Customer 446,Corporate,Office Supplies,Pens,Pens 22,821.5,203.03,0.08,9,South,Illinois
+ORD1461,2023-08-26 00:00:00,2023-08-27 00:00:00,Customer 235,Corporate,Furniture,Chairs,Chairs 63,94,19.89,0.15,9,East,Florida
+ORD1462,2023-06-25 00:00:00,2023-07-02 00:00:00,Customer 476,Small Business,Furniture,Sofas,Sofas 13,963.04,182.13,0.11,8,West,Illinois
+ORD1463,2023-01-29 00:00:00,2023-01-30 00:00:00,Customer 172,Home Office,Technology,Phones,Phones 11,187.9,24.69,0.06,3,East,Florida
+ORD1464,2023-11-02 00:00:00,2023-11-07 00:00:00,Customer 23,Small Business,Furniture,Chairs,Chairs 61,782.82,112.5,0.1,3,East,New York
+ORD1465,2023-11-09 00:00:00,2023-11-14 00:00:00,Customer 153,Corporate,Furniture,Sofas,Sofas 63,699.06,204.02,0.05,6,Central,California
+ORD1466,2023-02-19 00:00:00,2023-02-25 00:00:00,Customer 140,Consumer,Furniture,Sofas,Sofas 1,195.92,52.92,0.12,6,Central,New York
+ORD1467,2023-08-14 00:00:00,2023-08-17 00:00:00,Customer 271,Consumer,Office Supplies,Paper,Paper 59,78.86,18.49,0.16,6,West,California
+ORD1468,2023-04-23 00:00:00,2023-04-28 00:00:00,Customer 429,Small Business,Office Supplies,Binders,Binders 76,228.1,45.2,0.13,7,East,Florida
+ORD1469,2023-12-01 00:00:00,2023-12-02 00:00:00,Customer 181,Home Office,Technology,Phones,Phones 37,371.31,20.06,0.08,9,East,California
+ORD1470,2023-05-23 00:00:00,2023-05-28 00:00:00,Customer 19,Home Office,Office Supplies,Binders,Binders 73,217.64,63.38,0.02,2,East,Texas
+ORD1471,2023-08-31 00:00:00,2023-09-01 00:00:00,Customer 472,Consumer,Technology,Laptops,Laptops 31,160.26,30.72,0.13,4,West,California
+ORD1472,2023-08-03 00:00:00,2023-08-07 00:00:00,Customer 257,Home Office,Office Supplies,Binders,Binders 37,112.65,25.88,0.07,10,West,Illinois
+ORD1473,2023-08-10 00:00:00,2023-08-13 00:00:00,Customer 9,Home Office,Office Supplies,Pens,Pens 74,937.59,110.98,0.14,4,Central,California
+ORD1474,2023-02-27 00:00:00,2023-03-06 00:00:00,Customer 268,Corporate,Furniture,Bookcases,Bookcases 27,103.75,10.88,0.11,9,Central,Texas
+ORD1475,2023-04-29 00:00:00,2023-05-01 00:00:00,Customer 60,Home Office,Office Supplies,Paper,Paper 9,912.16,52.21,0.07,9,East,New York
+ORD1476,2023-10-28 00:00:00,2023-10-31 00:00:00,Customer 324,Home Office,Office Supplies,Binders,Binders 71,390.95,107.83,0.06,3,Central,Texas
+ORD1477,2023-08-10 00:00:00,2023-08-14 00:00:00,Customer 252,Small Business,Office Supplies,Pens,Pens 92,11.82,2.93,0.01,6,Central,Illinois
+ORD1478,2023-03-24 00:00:00,2023-03-29 00:00:00,Customer 95,Home Office,Technology,Printers,Printers 32,586.52,133.99,0.19,5,West,New York
+ORD1479,2023-10-28 00:00:00,2023-10-29 00:00:00,Customer 113,Small Business,Office Supplies,Pens,Pens 76,358.67,35.31,0.14,10,East,Florida
+ORD1480,2023-07-27 00:00:00,2023-07-31 00:00:00,Customer 282,Home Office,Office Supplies,Paper,Paper 51,963.93,121.33,0.18,10,West,Texas
+ORD1481,2023-10-30 00:00:00,2023-11-03 00:00:00,Customer 352,Home Office,Furniture,Sofas,Sofas 8,306.54,48.19,0.02,10,Central,Florida
+ORD1482,2023-09-09 00:00:00,2023-09-12 00:00:00,Customer 393,Home Office,Technology,Monitors,Monitors 27,105.75,18.96,0,3,Central,New York
+ORD1483,2023-02-28 00:00:00,2023-03-07 00:00:00,Customer 222,Home Office,Office Supplies,Pens,Pens 83,734.31,141.62,0.05,2,East,Texas
+ORD1484,2023-04-11 00:00:00,2023-04-16 00:00:00,Customer 401,Home Office,Technology,Laptops,Laptops 62,418.27,37.69,0.02,7,Central,Florida
+ORD1485,2023-05-21 00:00:00,2023-05-25 00:00:00,Customer 181,Home Office,Technology,Phones,Phones 24,195.79,51.45,0.15,2,South,New York
+ORD1486,2023-09-09 00:00:00,2023-09-16 00:00:00,Customer 335,Small Business,Furniture,Bookcases,Bookcases 58,447.24,84.5,0.02,5,South,California
+ORD1487,2023-08-14 00:00:00,2023-08-21 00:00:00,Customer 396,Small Business,Technology,Laptops,Laptops 41,22.74,4.05,0.08,9,South,New York
+ORD1488,2023-03-19 00:00:00,2023-03-23 00:00:00,Customer 52,Consumer,Office Supplies,Staplers,Staplers 33,899.66,149.18,0.11,6,Central,Illinois
+ORD1489,2023-02-01 00:00:00,2023-02-06 00:00:00,Customer 99,Home Office,Furniture,Sofas,Sofas 77,353.34,58.62,0,3,East,California
+ORD1490,2023-08-31 00:00:00,2023-09-06 00:00:00,Customer 69,Home Office,Technology,Laptops,Laptops 60,968.96,165.43,0.18,4,South,Florida
+ORD1491,2023-03-12 00:00:00,2023-03-17 00:00:00,Customer 435,Small Business,Technology,Monitors,Monitors 10,562.04,72.63,0.1,7,Central,Texas
+ORD1492,2023-04-07 00:00:00,2023-04-12 00:00:00,Customer 104,Small Business,Office Supplies,Paper,Paper 9,171.33,36.21,0.05,3,South,Illinois
+ORD1493,2023-01-04 00:00:00,2023-01-09 00:00:00,Customer 258,Home Office,Technology,Phones,Phones 11,378.36,83.4,0.04,4,South,California
+ORD1494,2023-07-03 00:00:00,2023-07-07 00:00:00,Customer 78,Small Business,Office Supplies,Binders,Binders 42,818.19,241.49,0.17,5,West,New York
+ORD1495,2023-08-21 00:00:00,2023-08-28 00:00:00,Customer 194,Corporate,Technology,Printers,Printers 22,747.84,137.99,0.04,1,West,California
+ORD1496,2023-02-02 00:00:00,2023-02-05 00:00:00,Customer 275,Corporate,Office Supplies,Pens,Pens 57,969.27,62.65,0.19,4,Central,Texas
+ORD1497,2023-04-23 00:00:00,2023-04-26 00:00:00,Customer 265,Consumer,Furniture,Sofas,Sofas 63,857.98,104.41,0.19,9,South,Florida
+ORD1498,2023-09-14 00:00:00,2023-09-20 00:00:00,Customer 208,Small Business,Furniture,Sofas,Sofas 5,880.34,212.53,0.16,7,South,Illinois
+ORD1499,2023-06-24 00:00:00,2023-06-27 00:00:00,Customer 384,Small Business,Office Supplies,Binders,Binders 9,113.06,10.2,0.15,4,East,New York
+ORD1500,2023-11-14 00:00:00,2023-11-19 00:00:00,Customer 495,Consumer,Technology,Printers,Printers 91,64.72,6.81,0.1,4,East,Illinois
+ORD1501,2023-09-25 00:00:00,2023-09-29 00:00:00,Customer 429,Home Office,Technology,Printers,Printers 19,883.59,45.16,0.05,9,West,Illinois
+ORD1502,2023-12-20 00:00:00,2023-12-27 00:00:00,Customer 175,Home Office,Furniture,Chairs,Chairs 55,909.7,154.09,0.19,7,South,Texas
+ORD1503,2023-01-09 00:00:00,2023-01-12 00:00:00,Customer 332,Consumer,Furniture,Tables,Tables 53,890.86,206.48,0.15,8,Central,Florida
+ORD1504,2023-11-25 00:00:00,2023-12-01 00:00:00,Customer 493,Corporate,Furniture,Sofas,Sofas 62,135.83,8.77,0.09,10,West,California
+ORD1505,2023-03-22 00:00:00,2023-03-27 00:00:00,Customer 136,Corporate,Office Supplies,Binders,Binders 3,159.5,44.91,0.01,3,Central,Florida
+ORD1506,2023-11-12 00:00:00,2023-11-17 00:00:00,Customer 385,Small Business,Office Supplies,Staplers,Staplers 40,291.95,79.47,0.03,2,East,New York
+ORD1507,2023-12-05 00:00:00,2023-12-07 00:00:00,Customer 135,Consumer,Technology,Printers,Printers 76,696.73,172.74,0.13,2,East,Texas
+ORD1508,2023-12-20 00:00:00,2023-12-25 00:00:00,Customer 82,Small Business,Office Supplies,Pens,Pens 8,944.38,175.53,0.18,3,Central,Illinois
+ORD1509,2023-04-20 00:00:00,2023-04-22 00:00:00,Customer 103,Home Office,Office Supplies,Pens,Pens 21,817.8,52.09,0.08,5,West,Florida
+ORD1510,2023-03-26 00:00:00,2023-03-29 00:00:00,Customer 490,Consumer,Technology,Phones,Phones 82,163.57,40.46,0.08,1,West,Texas
+ORD1511,2023-08-31 00:00:00,2023-09-04 00:00:00,Customer 444,Home Office,Office Supplies,Staplers,Staplers 5,814.6,211.16,0.09,9,South,Texas
+ORD1512,2023-02-01 00:00:00,2023-02-07 00:00:00,Customer 64,Corporate,Office Supplies,Staplers,Staplers 100,505.57,86.99,0.14,10,East,Florida
+ORD1513,2023-12-05 00:00:00,2023-12-08 00:00:00,Customer 500,Home Office,Technology,Laptops,Laptops 6,720.83,51.05,0,6,East,Illinois
+ORD1514,2023-10-11 00:00:00,2023-10-12 00:00:00,Customer 216,Corporate,Furniture,Chairs,Chairs 7,480.57,138.79,0.07,1,Central,New York
+ORD1515,2023-09-25 00:00:00,2023-09-28 00:00:00,Customer 451,Small Business,Office Supplies,Staplers,Staplers 19,784.45,112.69,0.14,5,South,New York
+ORD1516,2023-10-14 00:00:00,2023-10-16 00:00:00,Customer 171,Home Office,Furniture,Sofas,Sofas 64,873.23,110.49,0.03,7,East,California
+ORD1517,2023-03-02 00:00:00,2023-03-05 00:00:00,Customer 434,Home Office,Office Supplies,Binders,Binders 89,473.26,135.65,0.14,4,Central,California
+ORD1518,2023-02-21 00:00:00,2023-02-26 00:00:00,Customer 104,Home Office,Technology,Printers,Printers 62,762.16,108.65,0.14,7,Central,Texas
+ORD1519,2023-09-11 00:00:00,2023-09-15 00:00:00,Customer 474,Corporate,Technology,Phones,Phones 13,384.98,110.86,0.12,10,West,Texas
+ORD1520,2023-05-07 00:00:00,2023-05-10 00:00:00,Customer 355,Consumer,Office Supplies,Staplers,Staplers 8,20.39,3.99,0.1,4,South,New York
+ORD1521,2023-08-01 00:00:00,2023-08-07 00:00:00,Customer 263,Small Business,Technology,Laptops,Laptops 59,152,13.17,0.12,2,West,Florida
+ORD1522,2023-01-02 00:00:00,2023-01-09 00:00:00,Customer 99,Corporate,Technology,Monitors,Monitors 62,303.21,88.5,0.18,6,South,California
+ORD1523,2023-10-21 00:00:00,2023-10-23 00:00:00,Customer 493,Small Business,Furniture,Bookcases,Bookcases 79,502.17,145.23,0.03,5,West,New York
+ORD1524,2023-02-23 00:00:00,2023-02-28 00:00:00,Customer 19,Corporate,Furniture,Bookcases,Bookcases 56,588.74,99.94,0.06,8,South,California
+ORD1525,2023-09-25 00:00:00,2023-09-27 00:00:00,Customer 241,Consumer,Office Supplies,Binders,Binders 24,405.47,69.13,0.2,6,West,California
+ORD1526,2023-02-27 00:00:00,2023-03-06 00:00:00,Customer 397,Small Business,Technology,Phones,Phones 40,567.5,147.94,0.17,10,West,Texas
+ORD1527,2023-04-05 00:00:00,2023-04-11 00:00:00,Customer 356,Corporate,Technology,Laptops,Laptops 82,473.65,28.32,0.04,6,East,Texas
+ORD1528,2023-01-21 00:00:00,2023-01-27 00:00:00,Customer 416,Corporate,Technology,Monitors,Monitors 93,300.48,20.45,0.06,5,Central,New York
+ORD1529,2023-08-09 00:00:00,2023-08-10 00:00:00,Customer 174,Small Business,Furniture,Bookcases,Bookcases 9,183.72,40.26,0.06,10,South,New York
+ORD1530,2023-05-28 00:00:00,2023-06-01 00:00:00,Customer 237,Home Office,Furniture,Chairs,Chairs 16,757.76,103.16,0.17,9,Central,New York
+ORD1531,2023-11-06 00:00:00,2023-11-13 00:00:00,Customer 167,Consumer,Furniture,Sofas,Sofas 48,102.07,9.82,0.03,9,South,Illinois
+ORD1532,2023-05-23 00:00:00,2023-05-27 00:00:00,Customer 198,Consumer,Technology,Phones,Phones 97,29.23,4.29,0.08,4,West,Texas
+ORD1533,2023-10-21 00:00:00,2023-10-28 00:00:00,Customer 416,Consumer,Furniture,Sofas,Sofas 56,243.28,43.54,0.04,9,Central,Florida
+ORD1534,2023-07-27 00:00:00,2023-08-02 00:00:00,Customer 316,Corporate,Furniture,Tables,Tables 19,741.44,121.82,0.08,8,West,New York
+ORD1535,2023-06-21 00:00:00,2023-06-24 00:00:00,Customer 85,Home Office,Furniture,Sofas,Sofas 65,692.07,144.66,0.15,6,Central,Florida
+ORD1536,2023-12-07 00:00:00,2023-12-13 00:00:00,Customer 392,Corporate,Furniture,Sofas,Sofas 45,274.35,23.89,0.16,8,Central,Texas
+ORD1537,2023-07-12 00:00:00,2023-07-16 00:00:00,Customer 463,Corporate,Furniture,Tables,Tables 18,912.93,265.7,0.08,5,Central,California
+ORD1538,2023-11-30 00:00:00,2023-12-01 00:00:00,Customer 147,Consumer,Office Supplies,Binders,Binders 49,150.54,21.93,0.16,3,Central,New York
+ORD1539,2023-05-02 00:00:00,2023-05-06 00:00:00,Customer 33,Small Business,Office Supplies,Staplers,Staplers 57,417.22,99.96,0.01,2,South,Florida
+ORD1540,2023-02-14 00:00:00,2023-02-16 00:00:00,Customer 441,Consumer,Furniture,Tables,Tables 42,10.99,0.92,0.05,6,Central,Florida
+ORD1541,2023-06-15 00:00:00,2023-06-17 00:00:00,Customer 187,Corporate,Office Supplies,Paper,Paper 31,735.46,115.47,0.2,10,South,California
+ORD1542,2023-01-25 00:00:00,2023-01-28 00:00:00,Customer 122,Corporate,Furniture,Sofas,Sofas 89,161.55,24.95,0.13,3,South,New York
+ORD1543,2023-06-11 00:00:00,2023-06-14 00:00:00,Customer 247,Home Office,Technology,Phones,Phones 92,33.6,3.62,0.11,3,West,Florida
+ORD1544,2023-12-23 00:00:00,2023-12-27 00:00:00,Customer 494,Home Office,Office Supplies,Staplers,Staplers 23,802.82,91.87,0.17,5,West,Texas
+ORD1545,2023-12-14 00:00:00,2023-12-17 00:00:00,Customer 201,Corporate,Office Supplies,Staplers,Staplers 10,263.92,67,0.19,1,Central,Texas
+ORD1546,2023-01-21 00:00:00,2023-01-23 00:00:00,Customer 438,Consumer,Office Supplies,Paper,Paper 61,974.71,276.78,0.12,9,Central,New York
+ORD1547,2023-06-15 00:00:00,2023-06-19 00:00:00,Customer 349,Consumer,Office Supplies,Binders,Binders 97,18.8,2.14,0.09,5,West,Texas
+ORD1548,2023-12-23 00:00:00,2023-12-24 00:00:00,Customer 378,Small Business,Technology,Laptops,Laptops 31,530.09,130.69,0.17,8,South,Texas
+ORD1549,2023-09-27 00:00:00,2023-10-03 00:00:00,Customer 467,Consumer,Technology,Laptops,Laptops 54,775.82,190.82,0.18,8,West,California
+ORD1550,2023-04-13 00:00:00,2023-04-19 00:00:00,Customer 479,Consumer,Technology,Phones,Phones 39,977.11,205.96,0.2,4,Central,New York
+ORD1551,2023-04-27 00:00:00,2023-05-01 00:00:00,Customer 169,Corporate,Technology,Monitors,Monitors 46,268.83,53.84,0.04,6,East,Texas
+ORD1552,2023-10-30 00:00:00,2023-11-06 00:00:00,Customer 9,Consumer,Furniture,Tables,Tables 76,513.72,129.19,0,2,East,New York
+ORD1553,2023-09-14 00:00:00,2023-09-17 00:00:00,Customer 267,Small Business,Furniture,Sofas,Sofas 81,630.28,132.87,0.09,9,South,Florida
+ORD1554,2023-09-02 00:00:00,2023-09-03 00:00:00,Customer 74,Consumer,Office Supplies,Binders,Binders 88,30.02,6.27,0.04,3,East,California
+ORD1555,2023-08-14 00:00:00,2023-08-15 00:00:00,Customer 228,Small Business,Furniture,Tables,Tables 76,330.28,47.05,0,1,Central,New York
+ORD1556,2023-06-27 00:00:00,2023-06-30 00:00:00,Customer 116,Consumer,Furniture,Tables,Tables 39,643.16,87.1,0.1,10,East,New York
+ORD1557,2023-04-03 00:00:00,2023-04-04 00:00:00,Customer 299,Consumer,Furniture,Chairs,Chairs 66,597.74,142.35,0.06,9,South,California
+ORD1558,2023-09-27 00:00:00,2023-09-28 00:00:00,Customer 224,Consumer,Furniture,Chairs,Chairs 61,17.69,4.88,0,10,South,Texas
+ORD1559,2023-01-14 00:00:00,2023-01-19 00:00:00,Customer 140,Home Office,Furniture,Sofas,Sofas 41,657.03,85.83,0.04,1,South,New York
+ORD1560,2023-10-31 00:00:00,2023-11-07 00:00:00,Customer 267,Small Business,Office Supplies,Binders,Binders 48,903.99,94.47,0.2,1,East,Florida
+ORD1561,2023-01-24 00:00:00,2023-01-28 00:00:00,Customer 148,Consumer,Furniture,Sofas,Sofas 94,853.63,197.38,0.14,1,South,California
+ORD1562,2023-03-10 00:00:00,2023-03-14 00:00:00,Customer 41,Corporate,Furniture,Sofas,Sofas 32,511.67,78.87,0.17,1,Central,New York
+ORD1563,2023-08-02 00:00:00,2023-08-06 00:00:00,Customer 286,Home Office,Furniture,Tables,Tables 11,787.11,139.41,0.01,2,South,Texas
+ORD1564,2023-01-17 00:00:00,2023-01-24 00:00:00,Customer 282,Home Office,Technology,Printers,Printers 80,617.28,157.16,0.12,8,East,Illinois
+ORD1565,2023-10-04 00:00:00,2023-10-08 00:00:00,Customer 156,Consumer,Office Supplies,Binders,Binders 80,812.83,109.93,0.13,3,Central,Texas
+ORD1566,2023-10-20 00:00:00,2023-10-27 00:00:00,Customer 38,Home Office,Technology,Monitors,Monitors 66,199.82,43.58,0.18,2,South,Texas
+ORD1567,2023-05-10 00:00:00,2023-05-13 00:00:00,Customer 413,Small Business,Technology,Phones,Phones 57,729.37,75.56,0.14,5,West,Illinois
+ORD1568,2023-07-09 00:00:00,2023-07-16 00:00:00,Customer 127,Home Office,Office Supplies,Staplers,Staplers 37,605.83,111.03,0.03,3,West,Illinois
+ORD1569,2023-03-15 00:00:00,2023-03-17 00:00:00,Customer 375,Small Business,Furniture,Tables,Tables 9,603.65,32.22,0.14,7,West,Texas
+ORD1570,2023-01-13 00:00:00,2023-01-15 00:00:00,Customer 379,Corporate,Office Supplies,Paper,Paper 35,132.9,27.83,0.03,10,East,Florida
+ORD1571,2023-04-01 00:00:00,2023-04-06 00:00:00,Customer 440,Corporate,Technology,Printers,Printers 96,126.51,36.46,0.19,9,East,Texas
+ORD1572,2023-03-26 00:00:00,2023-03-28 00:00:00,Customer 328,Small Business,Furniture,Sofas,Sofas 74,672.74,199.21,0.15,8,Central,California
+ORD1573,2023-09-15 00:00:00,2023-09-22 00:00:00,Customer 473,Consumer,Technology,Monitors,Monitors 98,823.48,211.71,0.15,3,Central,Illinois
+ORD1574,2023-05-08 00:00:00,2023-05-10 00:00:00,Customer 260,Small Business,Office Supplies,Binders,Binders 87,741.22,160.15,0.15,5,West,California
+ORD1575,2023-08-03 00:00:00,2023-08-06 00:00:00,Customer 77,Consumer,Technology,Monitors,Monitors 16,758.88,224.95,0,10,East,Texas
+ORD1576,2023-07-21 00:00:00,2023-07-24 00:00:00,Customer 385,Small Business,Technology,Printers,Printers 98,281.83,58.85,0.14,6,Central,Illinois
+ORD1577,2023-01-26 00:00:00,2023-01-29 00:00:00,Customer 366,Consumer,Technology,Phones,Phones 33,512.54,98.41,0,9,South,Texas
+ORD1578,2023-09-17 00:00:00,2023-09-24 00:00:00,Customer 156,Small Business,Technology,Laptops,Laptops 11,679.89,155.45,0.08,6,South,California
+ORD1579,2023-10-18 00:00:00,2023-10-20 00:00:00,Customer 267,Corporate,Office Supplies,Staplers,Staplers 44,17.65,0.95,0,10,South,California
+ORD1580,2023-01-19 00:00:00,2023-01-23 00:00:00,Customer 68,Small Business,Technology,Monitors,Monitors 62,35.99,7.64,0.03,9,East,Illinois
+ORD1581,2023-10-31 00:00:00,2023-11-01 00:00:00,Customer 5,Small Business,Technology,Phones,Phones 46,292.88,35.83,0.07,9,Central,California
+ORD1582,2023-10-14 00:00:00,2023-10-17 00:00:00,Customer 392,Small Business,Furniture,Sofas,Sofas 98,100.19,25.6,0.05,2,South,New York
+ORD1583,2023-04-04 00:00:00,2023-04-09 00:00:00,Customer 449,Home Office,Office Supplies,Pens,Pens 34,691.82,47.12,0.13,6,East,Illinois
+ORD1584,2023-07-15 00:00:00,2023-07-21 00:00:00,Customer 31,Corporate,Furniture,Tables,Tables 63,23.61,2.38,0.2,4,South,California
+ORD1585,2023-07-05 00:00:00,2023-07-07 00:00:00,Customer 80,Home Office,Technology,Phones,Phones 45,511.61,51.95,0.02,6,West,California
+ORD1586,2023-12-29 00:00:00,2024-01-05 00:00:00,Customer 359,Corporate,Furniture,Sofas,Sofas 36,517.64,116.5,0.18,1,Central,New York
+ORD1587,2023-10-16 00:00:00,2023-10-17 00:00:00,Customer 135,Small Business,Furniture,Chairs,Chairs 76,239.13,49.76,0.08,10,South,California
+ORD1588,2023-07-16 00:00:00,2023-07-18 00:00:00,Customer 281,Corporate,Office Supplies,Pens,Pens 64,957.36,179.86,0.14,9,South,Florida
+ORD1589,2023-01-30 00:00:00,2023-02-02 00:00:00,Customer 447,Home Office,Office Supplies,Pens,Pens 41,34.26,7.7,0.16,8,Central,Florida
+ORD1590,2023-02-04 00:00:00,2023-02-06 00:00:00,Customer 304,Home Office,Technology,Laptops,Laptops 48,752.7,113.83,0.07,2,West,California
+ORD1591,2023-08-07 00:00:00,2023-08-11 00:00:00,Customer 85,Corporate,Technology,Phones,Phones 97,231.57,59.66,0.06,5,Central,New York
+ORD1592,2023-01-14 00:00:00,2023-01-18 00:00:00,Customer 479,Consumer,Office Supplies,Pens,Pens 93,522.15,79.31,0.01,10,West,New York
+ORD1593,2023-09-23 00:00:00,2023-09-29 00:00:00,Customer 265,Consumer,Furniture,Bookcases,Bookcases 61,43.22,10.89,0.17,9,Central,Illinois
+ORD1594,2023-10-10 00:00:00,2023-10-12 00:00:00,Customer 138,Home Office,Furniture,Chairs,Chairs 24,932.67,107.59,0.13,9,East,Florida
+ORD1595,2023-03-07 00:00:00,2023-03-14 00:00:00,Customer 47,Home Office,Furniture,Sofas,Sofas 68,953.29,262.91,0.14,8,Central,Florida
+ORD1596,2023-12-29 00:00:00,2023-12-30 00:00:00,Customer 293,Small Business,Furniture,Bookcases,Bookcases 84,26.85,2.15,0.05,9,East,Florida
+ORD1597,2023-07-24 00:00:00,2023-07-25 00:00:00,Customer 351,Consumer,Technology,Monitors,Monitors 84,269.2,58.91,0.05,3,East,Florida
+ORD1598,2023-11-20 00:00:00,2023-11-22 00:00:00,Customer 123,Corporate,Furniture,Tables,Tables 62,727.84,86.04,0.07,4,Central,Texas
+ORD1599,2023-02-02 00:00:00,2023-02-07 00:00:00,Customer 310,Small Business,Office Supplies,Binders,Binders 25,945.41,188.41,0.08,4,East,Florida
+ORD1600,2023-02-14 00:00:00,2023-02-20 00:00:00,Customer 148,Corporate,Technology,Printers,Printers 39,968.31,240.02,0.01,5,South,Texas
+ORD1601,2023-06-10 00:00:00,2023-06-15 00:00:00,Customer 303,Corporate,Technology,Printers,Printers 18,981.74,113.58,0.04,4,East,Illinois
+ORD1602,2023-09-16 00:00:00,2023-09-19 00:00:00,Customer 292,Small Business,Office Supplies,Staplers,Staplers 87,170.56,20.47,0.15,10,West,California
+ORD1603,2023-10-13 00:00:00,2023-10-20 00:00:00,Customer 204,Corporate,Office Supplies,Staplers,Staplers 78,613.07,159.07,0.03,6,East,Texas
+ORD1604,2023-03-07 00:00:00,2023-03-09 00:00:00,Customer 334,Consumer,Furniture,Bookcases,Bookcases 19,324.86,50.21,0.05,10,East,Texas
+ORD1605,2023-10-13 00:00:00,2023-10-17 00:00:00,Customer 317,Small Business,Technology,Printers,Printers 23,409.75,71.91,0.06,2,East,Texas
+ORD1606,2023-06-11 00:00:00,2023-06-13 00:00:00,Customer 325,Home Office,Technology,Phones,Phones 26,519.79,140.26,0.09,3,Central,California
+ORD1607,2023-12-13 00:00:00,2023-12-16 00:00:00,Customer 307,Small Business,Technology,Phones,Phones 8,981.37,266.88,0.1,8,East,New York
+ORD1608,2023-03-25 00:00:00,2023-03-31 00:00:00,Customer 356,Home Office,Office Supplies,Paper,Paper 47,784.92,176.58,0.06,2,East,Florida
+ORD1609,2023-02-23 00:00:00,2023-03-01 00:00:00,Customer 153,Small Business,Office Supplies,Pens,Pens 7,414.76,119.73,0.02,8,West,Texas
+ORD1610,2023-07-29 00:00:00,2023-08-03 00:00:00,Customer 320,Small Business,Furniture,Bookcases,Bookcases 13,122.07,11.96,0.05,3,West,California
+ORD1611,2023-09-02 00:00:00,2023-09-07 00:00:00,Customer 497,Home Office,Office Supplies,Binders,Binders 68,691.97,153.66,0.15,9,West,Texas
+ORD1612,2023-08-29 00:00:00,2023-09-03 00:00:00,Customer 153,Consumer,Technology,Phones,Phones 33,441.18,48.78,0.08,8,East,Texas
+ORD1613,2023-07-29 00:00:00,2023-08-02 00:00:00,Customer 196,Corporate,Technology,Laptops,Laptops 19,773,218.46,0.09,6,South,Florida
+ORD1614,2023-07-31 00:00:00,2023-08-03 00:00:00,Customer 235,Corporate,Technology,Monitors,Monitors 63,169.35,17.46,0.04,3,West,Texas
+ORD1615,2023-05-08 00:00:00,2023-05-09 00:00:00,Customer 49,Corporate,Technology,Phones,Phones 29,363.15,98.07,0.13,8,East,Florida
+ORD1616,2023-01-04 00:00:00,2023-01-10 00:00:00,Customer 326,Consumer,Office Supplies,Paper,Paper 16,602.54,51.47,0.11,5,East,Illinois
+ORD1617,2023-08-06 00:00:00,2023-08-10 00:00:00,Customer 454,Home Office,Furniture,Bookcases,Bookcases 75,983.83,277.43,0.14,7,South,Illinois
+ORD1618,2023-01-08 00:00:00,2023-01-09 00:00:00,Customer 190,Corporate,Office Supplies,Paper,Paper 19,699.26,209.41,0.03,8,Central,Florida
+ORD1619,2023-08-14 00:00:00,2023-08-18 00:00:00,Customer 213,Corporate,Office Supplies,Staplers,Staplers 39,194.37,16.39,0.03,1,East,California
+ORD1620,2023-08-12 00:00:00,2023-08-13 00:00:00,Customer 66,Home Office,Technology,Laptops,Laptops 15,254.48,23.75,0.18,5,West,Illinois
+ORD1621,2023-10-08 00:00:00,2023-10-15 00:00:00,Customer 260,Small Business,Technology,Printers,Printers 13,471.35,141.21,0.16,7,East,Texas
+ORD1622,2023-10-16 00:00:00,2023-10-21 00:00:00,Customer 29,Home Office,Office Supplies,Staplers,Staplers 4,332.78,75.79,0.02,1,South,New York
+ORD1623,2023-08-15 00:00:00,2023-08-21 00:00:00,Customer 215,Consumer,Office Supplies,Binders,Binders 67,113.05,10.43,0.2,9,East,Florida
+ORD1624,2023-11-02 00:00:00,2023-11-04 00:00:00,Customer 228,Home Office,Office Supplies,Pens,Pens 73,911.92,175.28,0.06,7,West,Illinois
+ORD1625,2023-11-23 00:00:00,2023-11-24 00:00:00,Customer 166,Corporate,Office Supplies,Staplers,Staplers 87,839.52,127.31,0.08,6,West,California
+ORD1626,2023-11-26 00:00:00,2023-11-30 00:00:00,Customer 131,Home Office,Office Supplies,Binders,Binders 12,136.94,18.85,0.12,3,West,New York
+ORD1627,2023-12-06 00:00:00,2023-12-08 00:00:00,Customer 414,Consumer,Furniture,Sofas,Sofas 45,448.65,26.29,0.05,8,Central,New York
+ORD1628,2023-06-20 00:00:00,2023-06-27 00:00:00,Customer 345,Corporate,Technology,Printers,Printers 94,939.64,96.82,0.05,6,West,California
+ORD1629,2023-11-04 00:00:00,2023-11-08 00:00:00,Customer 267,Corporate,Technology,Laptops,Laptops 83,686.92,66.87,0.06,8,West,Florida
+ORD1630,2023-05-12 00:00:00,2023-05-16 00:00:00,Customer 342,Small Business,Technology,Printers,Printers 82,595.19,128.89,0.04,5,West,Illinois
+ORD1631,2023-10-25 00:00:00,2023-10-27 00:00:00,Customer 268,Consumer,Furniture,Sofas,Sofas 86,866.33,91.29,0.09,3,East,New York
+ORD1632,2023-08-30 00:00:00,2023-09-05 00:00:00,Customer 226,Small Business,Technology,Printers,Printers 87,976.88,178.94,0.02,6,East,New York
+ORD1633,2023-04-21 00:00:00,2023-04-25 00:00:00,Customer 72,Consumer,Furniture,Chairs,Chairs 82,145.69,9.91,0.11,4,East,Illinois
+ORD1634,2023-12-17 00:00:00,2023-12-24 00:00:00,Customer 333,Consumer,Furniture,Sofas,Sofas 39,470.27,61.42,0.04,2,South,Illinois
+ORD1635,2023-08-19 00:00:00,2023-08-20 00:00:00,Customer 189,Corporate,Technology,Laptops,Laptops 38,91.22,24.12,0.18,2,West,Illinois
+ORD1636,2023-06-24 00:00:00,2023-07-01 00:00:00,Customer 320,Consumer,Technology,Phones,Phones 75,996.51,91.97,0.08,10,Central,California
+ORD1637,2023-03-06 00:00:00,2023-03-09 00:00:00,Customer 49,Small Business,Technology,Phones,Phones 2,562.51,41.04,0.04,4,Central,Florida
+ORD1638,2023-10-15 00:00:00,2023-10-22 00:00:00,Customer 448,Small Business,Furniture,Chairs,Chairs 51,704.31,167.64,0.16,9,South,New York
+ORD1639,2023-05-01 00:00:00,2023-05-05 00:00:00,Customer 486,Consumer,Furniture,Sofas,Sofas 37,368.45,45.15,0.06,6,South,California
+ORD1640,2023-03-10 00:00:00,2023-03-15 00:00:00,Customer 93,Corporate,Furniture,Sofas,Sofas 66,80.65,12.58,0.02,4,West,New York
+ORD1641,2023-08-23 00:00:00,2023-08-27 00:00:00,Customer 340,Small Business,Furniture,Chairs,Chairs 31,543.03,36.13,0.12,1,South,Illinois
+ORD1642,2023-03-31 00:00:00,2023-04-06 00:00:00,Customer 112,Consumer,Technology,Laptops,Laptops 73,471.45,48.06,0.11,5,Central,Florida
+ORD1643,2023-10-22 00:00:00,2023-10-24 00:00:00,Customer 194,Small Business,Technology,Monitors,Monitors 31,399.2,110.66,0.12,8,West,Illinois
+ORD1644,2023-04-18 00:00:00,2023-04-24 00:00:00,Customer 416,Corporate,Office Supplies,Binders,Binders 58,600.76,110.77,0.01,8,West,Texas
+ORD1645,2023-10-21 00:00:00,2023-10-27 00:00:00,Customer 32,Corporate,Furniture,Bookcases,Bookcases 74,200.07,34.94,0.16,10,East,Texas
+ORD1646,2023-12-27 00:00:00,2024-01-02 00:00:00,Customer 227,Home Office,Furniture,Sofas,Sofas 29,210.98,44.82,0.19,5,East,Illinois
+ORD1647,2023-10-07 00:00:00,2023-10-14 00:00:00,Customer 30,Home Office,Office Supplies,Paper,Paper 20,805.41,228.27,0.13,4,East,New York
+ORD1648,2023-09-08 00:00:00,2023-09-13 00:00:00,Customer 7,Corporate,Technology,Laptops,Laptops 33,395.03,23.04,0.04,1,West,Illinois
+ORD1649,2023-01-21 00:00:00,2023-01-28 00:00:00,Customer 436,Consumer,Technology,Laptops,Laptops 6,711.9,153.42,0.17,5,West,New York
+ORD1650,2023-03-30 00:00:00,2023-04-01 00:00:00,Customer 98,Consumer,Furniture,Sofas,Sofas 2,443.68,57.67,0.15,3,East,New York
+ORD1651,2023-05-11 00:00:00,2023-05-13 00:00:00,Customer 376,Corporate,Technology,Phones,Phones 26,776.25,226,0.07,2,Central,California
+ORD1652,2023-05-14 00:00:00,2023-05-17 00:00:00,Customer 393,Small Business,Furniture,Bookcases,Bookcases 86,244.14,67.32,0.06,5,South,Illinois
+ORD1653,2023-12-29 00:00:00,2024-01-04 00:00:00,Customer 335,Corporate,Office Supplies,Binders,Binders 89,934.92,159.95,0.18,2,South,Texas
+ORD1654,2023-09-18 00:00:00,2023-09-19 00:00:00,Customer 255,Consumer,Technology,Laptops,Laptops 8,295.28,65.61,0.08,3,West,Florida
+ORD1655,2023-12-23 00:00:00,2023-12-29 00:00:00,Customer 96,Consumer,Technology,Laptops,Laptops 92,205.25,32.87,0.1,10,South,New York
+ORD1656,2023-01-19 00:00:00,2023-01-20 00:00:00,Customer 497,Small Business,Office Supplies,Staplers,Staplers 17,45.49,10.64,0.17,3,Central,California
+ORD1657,2023-08-21 00:00:00,2023-08-25 00:00:00,Customer 173,Small Business,Technology,Printers,Printers 49,256.22,35.63,0.14,6,West,Florida
+ORD1658,2023-01-20 00:00:00,2023-01-21 00:00:00,Customer 129,Small Business,Technology,Printers,Printers 82,526.33,95.42,0.01,9,Central,Texas
+ORD1659,2023-10-26 00:00:00,2023-10-29 00:00:00,Customer 449,Consumer,Furniture,Bookcases,Bookcases 38,597.53,30.68,0.03,10,West,Texas
+ORD1660,2023-07-03 00:00:00,2023-07-08 00:00:00,Customer 334,Consumer,Furniture,Bookcases,Bookcases 83,24.01,3.64,0.03,2,Central,Florida
+ORD1661,2023-10-25 00:00:00,2023-10-31 00:00:00,Customer 493,Home Office,Furniture,Sofas,Sofas 79,832.72,89.47,0.04,4,West,Texas
+ORD1662,2023-04-15 00:00:00,2023-04-21 00:00:00,Customer 467,Corporate,Office Supplies,Pens,Pens 28,291.17,21.57,0.02,7,Central,Texas
+ORD1663,2023-11-24 00:00:00,2023-11-25 00:00:00,Customer 62,Small Business,Office Supplies,Binders,Binders 11,314.36,90.46,0.18,1,West,Florida
+ORD1664,2023-10-28 00:00:00,2023-10-29 00:00:00,Customer 288,Corporate,Furniture,Tables,Tables 40,330.36,21.13,0.08,7,East,New York
+ORD1665,2023-12-11 00:00:00,2023-12-14 00:00:00,Customer 190,Small Business,Furniture,Chairs,Chairs 41,301.23,71.21,0.04,7,Central,Texas
+ORD1666,2023-12-09 00:00:00,2023-12-11 00:00:00,Customer 114,Home Office,Furniture,Sofas,Sofas 58,134.66,7.92,0.04,8,East,California
+ORD1667,2023-03-14 00:00:00,2023-03-15 00:00:00,Customer 448,Small Business,Furniture,Tables,Tables 100,630.53,48.66,0.03,7,South,Florida
+ORD1668,2023-02-13 00:00:00,2023-02-19 00:00:00,Customer 311,Consumer,Furniture,Sofas,Sofas 19,908.07,54.38,0.11,7,South,New York
+ORD1669,2023-11-15 00:00:00,2023-11-19 00:00:00,Customer 257,Small Business,Office Supplies,Paper,Paper 52,428.72,80.86,0.18,4,Central,Florida
+ORD1670,2023-09-22 00:00:00,2023-09-29 00:00:00,Customer 478,Home Office,Furniture,Chairs,Chairs 93,60.26,8.58,0.15,7,East,Illinois
+ORD1671,2023-02-18 00:00:00,2023-02-24 00:00:00,Customer 371,Home Office,Technology,Printers,Printers 16,557.79,89.57,0.09,8,East,California
+ORD1672,2023-07-29 00:00:00,2023-08-03 00:00:00,Customer 88,Corporate,Furniture,Tables,Tables 65,307.21,84.28,0.1,10,South,New York
+ORD1673,2023-03-09 00:00:00,2023-03-12 00:00:00,Customer 251,Home Office,Technology,Phones,Phones 82,777.14,179.99,0.18,9,South,Florida
+ORD1674,2023-04-30 00:00:00,2023-05-07 00:00:00,Customer 51,Corporate,Technology,Laptops,Laptops 67,225.92,65.8,0.18,3,South,California
+ORD1675,2023-07-08 00:00:00,2023-07-15 00:00:00,Customer 256,Home Office,Office Supplies,Paper,Paper 5,256.78,36.18,0.05,2,East,Texas
+ORD1676,2023-10-29 00:00:00,2023-10-31 00:00:00,Customer 21,Corporate,Technology,Laptops,Laptops 28,687.46,203.2,0.08,1,East,New York
+ORD1677,2023-02-19 00:00:00,2023-02-26 00:00:00,Customer 37,Home Office,Office Supplies,Binders,Binders 20,654.14,152.39,0.14,5,South,New York
+ORD1678,2023-10-04 00:00:00,2023-10-08 00:00:00,Customer 386,Home Office,Technology,Printers,Printers 68,764.16,143.87,0.01,5,South,Florida
+ORD1679,2023-05-10 00:00:00,2023-05-14 00:00:00,Customer 101,Small Business,Technology,Monitors,Monitors 11,715.76,112.26,0,10,Central,Texas
+ORD1680,2023-03-22 00:00:00,2023-03-23 00:00:00,Customer 364,Small Business,Technology,Phones,Phones 90,898.95,133.03,0.02,7,South,California
+ORD1681,2023-06-13 00:00:00,2023-06-14 00:00:00,Customer 240,Corporate,Office Supplies,Staplers,Staplers 59,589.02,168.9,0.18,8,Central,Florida
+ORD1682,2023-04-13 00:00:00,2023-04-19 00:00:00,Customer 130,Home Office,Office Supplies,Staplers,Staplers 24,283.03,71.21,0.11,2,Central,Texas
+ORD1683,2023-07-09 00:00:00,2023-07-10 00:00:00,Customer 373,Consumer,Office Supplies,Staplers,Staplers 35,139.92,26.47,0.14,4,East,New York
+ORD1684,2023-12-21 00:00:00,2023-12-22 00:00:00,Customer 186,Consumer,Office Supplies,Paper,Paper 15,266.43,71.71,0.07,8,East,Florida
+ORD1685,2023-02-18 00:00:00,2023-02-22 00:00:00,Customer 296,Small Business,Office Supplies,Binders,Binders 80,496.25,45.09,0.11,6,East,New York
+ORD1686,2023-07-06 00:00:00,2023-07-12 00:00:00,Customer 336,Home Office,Office Supplies,Binders,Binders 14,910.3,54.8,0.03,5,Central,Texas
+ORD1687,2023-10-25 00:00:00,2023-10-29 00:00:00,Customer 178,Small Business,Furniture,Bookcases,Bookcases 50,648.31,138.24,0.03,9,West,California
+ORD1688,2023-07-15 00:00:00,2023-07-21 00:00:00,Customer 67,Consumer,Furniture,Chairs,Chairs 92,541.38,140.05,0.12,4,West,Florida
+ORD1689,2023-11-30 00:00:00,2023-12-07 00:00:00,Customer 375,Corporate,Technology,Monitors,Monitors 38,755.86,131.08,0.03,5,East,New York
+ORD1690,2023-03-30 00:00:00,2023-04-01 00:00:00,Customer 460,Corporate,Furniture,Chairs,Chairs 59,455.25,112.11,0.02,7,West,Florida
+ORD1691,2023-12-20 00:00:00,2023-12-25 00:00:00,Customer 38,Consumer,Furniture,Bookcases,Bookcases 11,695.42,120.65,0.01,6,West,Texas
+ORD1692,2023-11-28 00:00:00,2023-12-03 00:00:00,Customer 383,Consumer,Office Supplies,Pens,Pens 98,870.36,68.66,0.08,5,South,Texas
+ORD1693,2023-09-25 00:00:00,2023-10-02 00:00:00,Customer 161,Consumer,Office Supplies,Pens,Pens 61,77.87,6.2,0.13,10,South,Texas
+ORD1694,2023-06-27 00:00:00,2023-07-03 00:00:00,Customer 489,Small Business,Office Supplies,Paper,Paper 62,358.87,29.2,0.02,3,South,California
+ORD1695,2023-05-05 00:00:00,2023-05-12 00:00:00,Customer 291,Home Office,Furniture,Tables,Tables 30,563.86,105.86,0.14,10,South,Texas
+ORD1696,2023-09-28 00:00:00,2023-10-04 00:00:00,Customer 58,Consumer,Office Supplies,Binders,Binders 42,929.99,139.54,0.04,2,East,New York
+ORD1697,2023-03-31 00:00:00,2023-04-05 00:00:00,Customer 47,Home Office,Technology,Printers,Printers 59,790.85,163.81,0.19,3,Central,Florida
+ORD1698,2023-03-12 00:00:00,2023-03-15 00:00:00,Customer 410,Corporate,Office Supplies,Binders,Binders 55,558.26,68.63,0.02,7,East,Texas
+ORD1699,2023-05-11 00:00:00,2023-05-14 00:00:00,Customer 273,Consumer,Office Supplies,Binders,Binders 30,611.05,176.35,0.04,9,East,Florida
+ORD1700,2023-12-26 00:00:00,2023-12-28 00:00:00,Customer 378,Small Business,Office Supplies,Binders,Binders 10,825.58,233.03,0.13,9,West,California
+ORD1701,2023-06-09 00:00:00,2023-06-12 00:00:00,Customer 82,Consumer,Office Supplies,Binders,Binders 99,492.83,126.37,0.1,1,South,Illinois
+ORD1702,2023-06-25 00:00:00,2023-07-02 00:00:00,Customer 23,Small Business,Furniture,Bookcases,Bookcases 42,836.47,72.8,0.15,4,West,Florida
+ORD1703,2023-05-22 00:00:00,2023-05-28 00:00:00,Customer 448,Home Office,Technology,Printers,Printers 46,623.09,115.56,0.04,8,East,Illinois
+ORD1704,2023-04-13 00:00:00,2023-04-15 00:00:00,Customer 191,Small Business,Furniture,Sofas,Sofas 74,928.48,78.85,0.06,7,South,California
+ORD1705,2023-06-25 00:00:00,2023-07-01 00:00:00,Customer 459,Small Business,Office Supplies,Binders,Binders 11,677.52,82.6,0.06,8,East,California
+ORD1706,2023-02-13 00:00:00,2023-02-15 00:00:00,Customer 390,Corporate,Technology,Monitors,Monitors 6,49.46,11.66,0.01,3,South,California
+ORD1707,2023-10-12 00:00:00,2023-10-16 00:00:00,Customer 315,Home Office,Office Supplies,Staplers,Staplers 43,563.3,125.43,0.2,10,South,Illinois
+ORD1708,2023-10-30 00:00:00,2023-11-05 00:00:00,Customer 128,Corporate,Office Supplies,Pens,Pens 34,584.63,131.99,0.18,2,West,Florida
+ORD1709,2023-05-08 00:00:00,2023-05-15 00:00:00,Customer 103,Home Office,Office Supplies,Binders,Binders 82,868.27,182.3,0.07,2,West,Texas
+ORD1710,2023-10-07 00:00:00,2023-10-14 00:00:00,Customer 139,Corporate,Office Supplies,Paper,Paper 39,504.08,33.92,0.06,3,East,Florida
+ORD1711,2023-04-14 00:00:00,2023-04-17 00:00:00,Customer 135,Small Business,Furniture,Sofas,Sofas 97,460.43,71.62,0.06,5,West,New York
+ORD1712,2023-10-26 00:00:00,2023-10-31 00:00:00,Customer 180,Consumer,Office Supplies,Binders,Binders 34,848.05,196.14,0.05,1,West,Texas
+ORD1713,2023-10-10 00:00:00,2023-10-13 00:00:00,Customer 385,Home Office,Office Supplies,Staplers,Staplers 9,124.22,22.36,0.03,5,South,New York
+ORD1714,2023-08-17 00:00:00,2023-08-18 00:00:00,Customer 203,Home Office,Technology,Phones,Phones 69,821.05,123.71,0.15,8,East,New York
+ORD1715,2023-05-05 00:00:00,2023-05-12 00:00:00,Customer 30,Small Business,Office Supplies,Staplers,Staplers 73,418.32,109.92,0.11,8,Central,California
+ORD1716,2023-05-14 00:00:00,2023-05-19 00:00:00,Customer 286,Home Office,Furniture,Tables,Tables 39,631.11,189.06,0.03,4,West,Florida
+ORD1717,2023-09-29 00:00:00,2023-10-06 00:00:00,Customer 485,Home Office,Office Supplies,Paper,Paper 35,887.89,194.42,0.19,8,Central,Texas
+ORD1718,2023-04-28 00:00:00,2023-05-04 00:00:00,Customer 64,Small Business,Furniture,Chairs,Chairs 85,873.88,195.63,0.18,6,Central,Texas
+ORD1719,2023-05-28 00:00:00,2023-05-29 00:00:00,Customer 289,Corporate,Office Supplies,Staplers,Staplers 7,686.91,60.74,0.02,1,East,Texas
+ORD1720,2023-03-22 00:00:00,2023-03-28 00:00:00,Customer 55,Corporate,Office Supplies,Paper,Paper 3,499.58,43.9,0.03,10,South,Texas
+ORD1721,2023-07-15 00:00:00,2023-07-17 00:00:00,Customer 497,Home Office,Technology,Printers,Printers 89,440.81,47.5,0.01,7,South,Illinois
+ORD1722,2023-06-06 00:00:00,2023-06-09 00:00:00,Customer 110,Home Office,Technology,Monitors,Monitors 28,310.89,47.15,0.14,10,East,California
+ORD1723,2023-04-22 00:00:00,2023-04-27 00:00:00,Customer 314,Corporate,Office Supplies,Staplers,Staplers 51,60.44,4.59,0.19,3,East,Illinois
+ORD1724,2023-07-02 00:00:00,2023-07-08 00:00:00,Customer 347,Small Business,Furniture,Bookcases,Bookcases 16,728.81,88.62,0.03,3,South,Florida
+ORD1725,2023-09-12 00:00:00,2023-09-18 00:00:00,Customer 442,Corporate,Office Supplies,Pens,Pens 27,702.54,42.82,0.04,3,East,New York
+ORD1726,2023-07-31 00:00:00,2023-08-07 00:00:00,Customer 332,Consumer,Technology,Monitors,Monitors 14,139.33,8.77,0.14,8,West,Illinois
+ORD1727,2023-09-04 00:00:00,2023-09-07 00:00:00,Customer 475,Home Office,Furniture,Sofas,Sofas 69,814.34,101.76,0.08,4,Central,California
+ORD1728,2023-05-26 00:00:00,2023-05-31 00:00:00,Customer 264,Consumer,Technology,Monitors,Monitors 39,423.58,76.86,0.01,7,West,Florida
+ORD1729,2023-06-04 00:00:00,2023-06-06 00:00:00,Customer 270,Consumer,Office Supplies,Staplers,Staplers 10,890.04,119.71,0.02,2,Central,Florida
+ORD1730,2023-12-16 00:00:00,2023-12-20 00:00:00,Customer 425,Home Office,Furniture,Bookcases,Bookcases 14,401.63,111.39,0.16,5,South,Florida
+ORD1731,2023-03-30 00:00:00,2023-04-04 00:00:00,Customer 304,Small Business,Office Supplies,Binders,Binders 75,734.78,54.06,0.11,7,West,California
+ORD1732,2023-10-10 00:00:00,2023-10-14 00:00:00,Customer 438,Small Business,Office Supplies,Staplers,Staplers 45,850.77,195.51,0.18,5,West,Illinois
+ORD1733,2023-02-10 00:00:00,2023-02-14 00:00:00,Customer 422,Home Office,Technology,Printers,Printers 1,959.98,256.44,0.02,9,West,California
+ORD1734,2023-05-10 00:00:00,2023-05-11 00:00:00,Customer 237,Consumer,Technology,Monitors,Monitors 39,168.12,14.99,0.14,9,East,Illinois
+ORD1735,2023-04-02 00:00:00,2023-04-09 00:00:00,Customer 207,Corporate,Technology,Phones,Phones 66,318.4,34.49,0,4,South,Texas
+ORD1736,2023-06-18 00:00:00,2023-06-22 00:00:00,Customer 218,Consumer,Furniture,Bookcases,Bookcases 87,472.91,90.68,0.18,9,Central,California
+ORD1737,2023-03-14 00:00:00,2023-03-17 00:00:00,Customer 219,Corporate,Furniture,Sofas,Sofas 15,898.31,86.62,0.17,3,South,Texas
+ORD1738,2023-02-23 00:00:00,2023-03-02 00:00:00,Customer 234,Corporate,Furniture,Chairs,Chairs 58,881.04,202.79,0,10,East,California
+ORD1739,2023-04-11 00:00:00,2023-04-12 00:00:00,Customer 480,Home Office,Technology,Phones,Phones 95,914.42,89,0.18,1,East,Illinois
+ORD1740,2023-12-24 00:00:00,2023-12-30 00:00:00,Customer 252,Consumer,Technology,Monitors,Monitors 50,419.1,40.94,0.06,3,Central,New York
+ORD1741,2023-12-05 00:00:00,2023-12-12 00:00:00,Customer 318,Home Office,Technology,Monitors,Monitors 6,753.77,184.89,0.13,1,South,Texas
+ORD1742,2023-10-03 00:00:00,2023-10-04 00:00:00,Customer 351,Small Business,Technology,Printers,Printers 7,904.83,216.46,0.18,1,West,New York
+ORD1743,2023-01-09 00:00:00,2023-01-11 00:00:00,Customer 278,Home Office,Technology,Laptops,Laptops 18,429.32,56.02,0.02,4,South,California
+ORD1744,2023-04-23 00:00:00,2023-04-28 00:00:00,Customer 407,Small Business,Furniture,Tables,Tables 58,327.23,87.95,0.06,10,Central,Texas
+ORD1745,2023-06-14 00:00:00,2023-06-15 00:00:00,Customer 175,Corporate,Furniture,Sofas,Sofas 71,924.79,177.88,0.19,4,West,Texas
+ORD1746,2023-03-15 00:00:00,2023-03-17 00:00:00,Customer 138,Home Office,Technology,Laptops,Laptops 89,106.39,29.63,0.18,3,East,California
+ORD1747,2023-07-21 00:00:00,2023-07-24 00:00:00,Customer 92,Home Office,Technology,Printers,Printers 84,883.37,167.1,0.07,3,South,New York
+ORD1748,2023-03-13 00:00:00,2023-03-18 00:00:00,Customer 494,Home Office,Office Supplies,Pens,Pens 71,220.61,29.15,0.19,7,West,Texas
+ORD1749,2023-05-21 00:00:00,2023-05-22 00:00:00,Customer 168,Corporate,Office Supplies,Pens,Pens 53,851.58,49.79,0.18,8,Central,Illinois
+ORD1750,2023-06-23 00:00:00,2023-06-30 00:00:00,Customer 315,Home Office,Technology,Phones,Phones 85,128.75,30,0.05,3,East,Illinois
+ORD1751,2023-07-10 00:00:00,2023-07-16 00:00:00,Customer 135,Home Office,Office Supplies,Paper,Paper 77,776.6,124.55,0.04,5,Central,New York
+ORD1752,2023-12-03 00:00:00,2023-12-06 00:00:00,Customer 328,Home Office,Furniture,Bookcases,Bookcases 3,897.33,205.61,0.05,1,South,New York
+ORD1753,2023-09-01 00:00:00,2023-09-05 00:00:00,Customer 244,Home Office,Office Supplies,Paper,Paper 85,369.07,106,0,7,South,Texas
+ORD1754,2023-09-18 00:00:00,2023-09-22 00:00:00,Customer 275,Small Business,Technology,Printers,Printers 1,433.61,41.37,0.04,7,West,New York
+ORD1755,2023-04-28 00:00:00,2023-04-30 00:00:00,Customer 477,Consumer,Furniture,Bookcases,Bookcases 85,69.39,5.98,0.09,2,East,Florida
+ORD1756,2023-04-18 00:00:00,2023-04-21 00:00:00,Customer 498,Corporate,Technology,Monitors,Monitors 77,933.15,120.11,0.01,4,East,California
+ORD1757,2023-11-20 00:00:00,2023-11-23 00:00:00,Customer 271,Home Office,Office Supplies,Staplers,Staplers 15,380.12,30.15,0.12,5,East,California
+ORD1758,2023-01-18 00:00:00,2023-01-20 00:00:00,Customer 218,Home Office,Furniture,Sofas,Sofas 56,943.09,279.59,0.07,7,East,Illinois
+ORD1759,2023-12-14 00:00:00,2023-12-21 00:00:00,Customer 96,Consumer,Technology,Monitors,Monitors 40,974.76,144.17,0.13,5,West,Texas
+ORD1760,2023-11-08 00:00:00,2023-11-14 00:00:00,Customer 437,Home Office,Furniture,Bookcases,Bookcases 34,614.33,83.16,0.06,4,East,Florida
+ORD1761,2023-03-01 00:00:00,2023-03-02 00:00:00,Customer 27,Consumer,Furniture,Sofas,Sofas 1,125.65,30.72,0.06,5,Central,New York
+ORD1762,2023-01-13 00:00:00,2023-01-18 00:00:00,Customer 361,Corporate,Furniture,Bookcases,Bookcases 73,121.21,14.65,0.12,3,West,Illinois
+ORD1763,2023-05-23 00:00:00,2023-05-28 00:00:00,Customer 54,Corporate,Furniture,Bookcases,Bookcases 52,125.79,26.41,0.06,5,East,Florida
+ORD1764,2023-01-02 00:00:00,2023-01-03 00:00:00,Customer 425,Home Office,Furniture,Bookcases,Bookcases 62,355.04,34.29,0.03,1,West,Texas
+ORD1765,2023-07-07 00:00:00,2023-07-12 00:00:00,Customer 239,Small Business,Office Supplies,Pens,Pens 72,94.66,7.56,0.09,4,Central,Florida
+ORD1766,2023-06-29 00:00:00,2023-07-06 00:00:00,Customer 59,Corporate,Office Supplies,Paper,Paper 58,682.22,115.67,0.09,1,Central,California
+ORD1767,2023-03-29 00:00:00,2023-04-01 00:00:00,Customer 17,Home Office,Furniture,Chairs,Chairs 78,116.51,15.49,0.06,10,West,Texas
+ORD1768,2023-08-15 00:00:00,2023-08-16 00:00:00,Customer 289,Small Business,Technology,Monitors,Monitors 34,147.56,36.76,0.02,10,South,Illinois
+ORD1769,2023-12-21 00:00:00,2023-12-22 00:00:00,Customer 326,Home Office,Furniture,Sofas,Sofas 43,127.43,10.72,0.02,3,Central,New York
+ORD1770,2023-11-23 00:00:00,2023-11-30 00:00:00,Customer 458,Corporate,Office Supplies,Pens,Pens 93,184.42,14.45,0.06,1,East,Florida
+ORD1771,2023-07-04 00:00:00,2023-07-08 00:00:00,Customer 421,Home Office,Technology,Printers,Printers 2,193.49,18.27,0.07,9,West,Illinois
+ORD1772,2023-08-29 00:00:00,2023-08-31 00:00:00,Customer 195,Consumer,Technology,Phones,Phones 51,407.79,71.52,0.16,2,South,California
+ORD1773,2023-03-18 00:00:00,2023-03-25 00:00:00,Customer 99,Consumer,Office Supplies,Pens,Pens 73,797.02,185.38,0.01,8,East,Florida
+ORD1774,2023-04-13 00:00:00,2023-04-17 00:00:00,Customer 30,Home Office,Office Supplies,Paper,Paper 95,887.22,178.6,0.01,6,East,California
+ORD1775,2023-10-31 00:00:00,2023-11-03 00:00:00,Customer 291,Small Business,Office Supplies,Pens,Pens 82,589.62,171.45,0.15,5,Central,Texas
+ORD1776,2023-10-11 00:00:00,2023-10-14 00:00:00,Customer 484,Corporate,Technology,Phones,Phones 77,82.47,13.84,0,5,East,Florida
+ORD1777,2023-08-07 00:00:00,2023-08-12 00:00:00,Customer 157,Home Office,Office Supplies,Staplers,Staplers 47,737.65,101.61,0.14,6,West,New York
+ORD1778,2023-11-16 00:00:00,2023-11-20 00:00:00,Customer 425,Consumer,Furniture,Bookcases,Bookcases 62,236.56,29.52,0.06,8,Central,Florida
+ORD1779,2023-06-23 00:00:00,2023-06-28 00:00:00,Customer 169,Small Business,Furniture,Tables,Tables 58,256.67,63.67,0.1,4,Central,California
+ORD1780,2023-11-22 00:00:00,2023-11-27 00:00:00,Customer 284,Home Office,Furniture,Bookcases,Bookcases 28,474.68,73.89,0.07,9,East,Florida
+ORD1781,2023-06-06 00:00:00,2023-06-08 00:00:00,Customer 389,Consumer,Office Supplies,Paper,Paper 20,150.3,9.82,0.14,5,Central,Illinois
+ORD1782,2023-01-02 00:00:00,2023-01-07 00:00:00,Customer 449,Small Business,Technology,Laptops,Laptops 99,323.79,33.97,0.08,7,South,Illinois
+ORD1783,2023-07-13 00:00:00,2023-07-20 00:00:00,Customer 134,Home Office,Furniture,Sofas,Sofas 98,429.43,45.71,0.11,4,South,New York
+ORD1784,2023-05-11 00:00:00,2023-05-15 00:00:00,Customer 412,Home Office,Furniture,Chairs,Chairs 14,136.62,29.35,0.15,5,South,Florida
+ORD1785,2023-05-27 00:00:00,2023-06-01 00:00:00,Customer 142,Home Office,Technology,Printers,Printers 26,707.72,178.57,0.01,9,South,Florida
+ORD1786,2023-07-16 00:00:00,2023-07-17 00:00:00,Customer 87,Small Business,Furniture,Bookcases,Bookcases 18,329.02,21.31,0.16,1,West,California
+ORD1787,2023-08-18 00:00:00,2023-08-22 00:00:00,Customer 353,Consumer,Technology,Printers,Printers 76,667.38,177.5,0.16,3,Central,Florida
+ORD1788,2023-10-20 00:00:00,2023-10-27 00:00:00,Customer 147,Small Business,Technology,Monitors,Monitors 36,754.28,182.57,0.09,4,East,Texas
+ORD1789,2023-01-31 00:00:00,2023-02-01 00:00:00,Customer 405,Consumer,Furniture,Bookcases,Bookcases 64,38.28,3.86,0.14,3,Central,Illinois
+ORD1790,2023-02-26 00:00:00,2023-03-01 00:00:00,Customer 378,Home Office,Technology,Laptops,Laptops 71,185.32,14.91,0.12,10,Central,New York
+ORD1791,2023-06-13 00:00:00,2023-06-19 00:00:00,Customer 444,Home Office,Furniture,Sofas,Sofas 95,660.92,177.13,0.05,5,Central,New York
+ORD1792,2023-10-28 00:00:00,2023-11-04 00:00:00,Customer 350,Corporate,Technology,Monitors,Monitors 5,999.81,147.2,0.09,9,South,Texas
+ORD1793,2023-03-05 00:00:00,2023-03-08 00:00:00,Customer 119,Consumer,Furniture,Sofas,Sofas 76,115.84,17,0.18,4,Central,Illinois
+ORD1794,2023-03-29 00:00:00,2023-04-04 00:00:00,Customer 101,Corporate,Technology,Monitors,Monitors 93,264.66,23.84,0.07,1,West,California
+ORD1795,2023-03-24 00:00:00,2023-03-28 00:00:00,Customer 181,Consumer,Furniture,Sofas,Sofas 98,960.04,109.1,0.08,5,West,Florida
+ORD1796,2023-04-19 00:00:00,2023-04-25 00:00:00,Customer 333,Consumer,Office Supplies,Binders,Binders 62,627.81,47.33,0.02,2,South,California
+ORD1797,2023-05-06 00:00:00,2023-05-07 00:00:00,Customer 66,Home Office,Furniture,Tables,Tables 2,65.79,8.87,0.12,8,East,New York
+ORD1798,2023-06-20 00:00:00,2023-06-23 00:00:00,Customer 89,Consumer,Office Supplies,Paper,Paper 90,21.85,5.81,0.12,4,South,Florida
+ORD1799,2023-10-30 00:00:00,2023-11-02 00:00:00,Customer 71,Small Business,Furniture,Sofas,Sofas 99,467.93,53.48,0.02,1,South,Texas
+ORD1800,2023-11-26 00:00:00,2023-12-02 00:00:00,Customer 244,Home Office,Furniture,Tables,Tables 73,926.39,207.95,0.11,1,Central,New York
+ORD1801,2023-01-06 00:00:00,2023-01-08 00:00:00,Customer 58,Small Business,Furniture,Sofas,Sofas 48,115.75,7.05,0.03,7,South,California
+ORD1802,2023-10-05 00:00:00,2023-10-08 00:00:00,Customer 175,Small Business,Furniture,Bookcases,Bookcases 43,563.3,132.05,0.18,5,Central,New York
+ORD1803,2023-02-06 00:00:00,2023-02-12 00:00:00,Customer 255,Corporate,Furniture,Tables,Tables 72,34.54,10.16,0.03,5,Central,Illinois
+ORD1804,2023-03-09 00:00:00,2023-03-16 00:00:00,Customer 298,Small Business,Technology,Monitors,Monitors 9,779.36,205.25,0.13,5,South,New York
+ORD1805,2023-11-06 00:00:00,2023-11-10 00:00:00,Customer 324,Small Business,Office Supplies,Paper,Paper 56,481.75,41.26,0.1,8,East,Texas
+ORD1806,2023-08-15 00:00:00,2023-08-20 00:00:00,Customer 7,Consumer,Technology,Phones,Phones 97,306.67,18.93,0.16,7,Central,Florida
+ORD1807,2023-05-27 00:00:00,2023-06-01 00:00:00,Customer 357,Small Business,Office Supplies,Binders,Binders 31,160.19,8.86,0.04,9,Central,California
+ORD1808,2023-08-03 00:00:00,2023-08-06 00:00:00,Customer 185,Small Business,Technology,Phones,Phones 46,735.92,198.34,0.07,7,East,Florida
+ORD1809,2023-08-06 00:00:00,2023-08-09 00:00:00,Customer 50,Corporate,Furniture,Bookcases,Bookcases 21,948.43,201.68,0.19,1,Central,Florida
+ORD1810,2023-12-12 00:00:00,2023-12-17 00:00:00,Customer 473,Corporate,Furniture,Sofas,Sofas 5,484.77,135.26,0.02,9,Central,New York
+ORD1811,2023-12-09 00:00:00,2023-12-11 00:00:00,Customer 20,Small Business,Furniture,Tables,Tables 84,315.58,77.94,0.17,3,West,California
+ORD1812,2023-04-21 00:00:00,2023-04-27 00:00:00,Customer 1,Home Office,Technology,Monitors,Monitors 94,996.1,173.03,0.01,2,West,California
+ORD1813,2023-02-20 00:00:00,2023-02-22 00:00:00,Customer 74,Corporate,Office Supplies,Pens,Pens 42,679.48,131.69,0.14,2,East,California
+ORD1814,2023-02-13 00:00:00,2023-02-17 00:00:00,Customer 460,Corporate,Office Supplies,Binders,Binders 76,965.05,197.59,0.08,7,East,New York
+ORD1815,2023-08-19 00:00:00,2023-08-20 00:00:00,Customer 271,Home Office,Technology,Laptops,Laptops 39,734.14,192.46,0.01,1,West,Illinois
+ORD1816,2023-05-21 00:00:00,2023-05-27 00:00:00,Customer 60,Corporate,Office Supplies,Staplers,Staplers 96,227.36,53.7,0.05,8,East,Illinois
+ORD1817,2023-03-12 00:00:00,2023-03-16 00:00:00,Customer 443,Consumer,Furniture,Chairs,Chairs 7,458.28,37.96,0.1,2,South,Illinois
+ORD1818,2023-11-30 00:00:00,2023-12-05 00:00:00,Customer 183,Corporate,Furniture,Sofas,Sofas 58,217.08,55.19,0.15,10,East,Texas
+ORD1819,2023-02-16 00:00:00,2023-02-22 00:00:00,Customer 44,Corporate,Technology,Laptops,Laptops 81,283.29,84.87,0.16,7,South,New York
+ORD1820,2023-09-27 00:00:00,2023-10-03 00:00:00,Customer 147,Small Business,Technology,Printers,Printers 51,314.48,18.17,0.05,1,South,Florida
+ORD1821,2023-08-28 00:00:00,2023-09-01 00:00:00,Customer 179,Corporate,Furniture,Chairs,Chairs 94,658.98,73.72,0.01,1,East,Illinois
+ORD1822,2023-04-11 00:00:00,2023-04-18 00:00:00,Customer 199,Home Office,Furniture,Chairs,Chairs 56,497.27,68.26,0.03,4,Central,New York
+ORD1823,2023-11-27 00:00:00,2023-11-28 00:00:00,Customer 335,Small Business,Office Supplies,Staplers,Staplers 58,39.41,6.25,0.15,4,East,Texas
+ORD1824,2023-04-19 00:00:00,2023-04-21 00:00:00,Customer 155,Home Office,Office Supplies,Binders,Binders 23,961,189.92,0.08,2,Central,Florida
+ORD1825,2023-12-26 00:00:00,2024-01-01 00:00:00,Customer 426,Small Business,Technology,Phones,Phones 58,772.56,100.87,0.01,1,West,California
+ORD1826,2023-05-27 00:00:00,2023-05-29 00:00:00,Customer 357,Small Business,Office Supplies,Staplers,Staplers 60,27.07,4.88,0.16,7,Central,New York
+ORD1827,2023-01-04 00:00:00,2023-01-08 00:00:00,Customer 390,Corporate,Technology,Printers,Printers 62,556.5,59.78,0.1,9,Central,New York
+ORD1828,2023-07-28 00:00:00,2023-08-04 00:00:00,Customer 44,Small Business,Technology,Printers,Printers 1,88.21,20.94,0.09,7,Central,Texas
+ORD1829,2023-02-20 00:00:00,2023-02-23 00:00:00,Customer 264,Home Office,Furniture,Chairs,Chairs 58,882.41,225.04,0.08,9,West,Illinois
+ORD1830,2023-08-05 00:00:00,2023-08-09 00:00:00,Customer 244,Small Business,Furniture,Bookcases,Bookcases 35,419.21,33.29,0.09,10,East,California
+ORD1831,2023-06-08 00:00:00,2023-06-15 00:00:00,Customer 141,Corporate,Technology,Printers,Printers 73,605.51,88.01,0,2,West,Texas
+ORD1832,2023-10-02 00:00:00,2023-10-03 00:00:00,Customer 409,Small Business,Technology,Monitors,Monitors 27,230.32,42.26,0.11,4,West,Florida
+ORD1833,2023-07-28 00:00:00,2023-07-31 00:00:00,Customer 447,Consumer,Technology,Laptops,Laptops 94,42.74,6.15,0.13,5,Central,Florida
+ORD1834,2023-08-31 00:00:00,2023-09-06 00:00:00,Customer 44,Home Office,Technology,Laptops,Laptops 40,817.34,109.19,0.16,6,South,California
+ORD1835,2023-07-17 00:00:00,2023-07-19 00:00:00,Customer 36,Small Business,Furniture,Bookcases,Bookcases 20,448.12,68.91,0.07,7,West,Florida
+ORD1836,2023-01-27 00:00:00,2023-01-29 00:00:00,Customer 457,Home Office,Furniture,Chairs,Chairs 52,746.83,222.27,0.12,3,Central,Illinois
+ORD1837,2023-04-29 00:00:00,2023-05-04 00:00:00,Customer 7,Home Office,Technology,Printers,Printers 35,768.76,112.3,0.16,4,West,Texas
+ORD1838,2023-11-30 00:00:00,2023-12-04 00:00:00,Customer 326,Small Business,Furniture,Tables,Tables 16,911.62,76.31,0.11,10,East,Florida
+ORD1839,2023-10-19 00:00:00,2023-10-26 00:00:00,Customer 419,Home Office,Technology,Monitors,Monitors 87,787.42,97.74,0.15,8,East,Texas
+ORD1840,2023-07-28 00:00:00,2023-08-02 00:00:00,Customer 231,Consumer,Furniture,Sofas,Sofas 100,892.24,197.24,0.18,10,South,New York
+ORD1841,2023-09-16 00:00:00,2023-09-23 00:00:00,Customer 391,Home Office,Furniture,Bookcases,Bookcases 86,377.29,37.06,0.1,9,South,Texas
+ORD1842,2023-03-04 00:00:00,2023-03-09 00:00:00,Customer 303,Small Business,Technology,Printers,Printers 30,541.12,64.35,0.13,3,West,Illinois
+ORD1843,2023-04-15 00:00:00,2023-04-17 00:00:00,Customer 107,Small Business,Technology,Monitors,Monitors 3,846.7,142.8,0.08,7,Central,Illinois
+ORD1844,2023-11-29 00:00:00,2023-12-06 00:00:00,Customer 183,Corporate,Office Supplies,Pens,Pens 64,602.24,123.68,0.19,6,South,Florida
+ORD1845,2023-11-12 00:00:00,2023-11-13 00:00:00,Customer 410,Corporate,Office Supplies,Pens,Pens 75,862.5,146.79,0.06,9,East,Texas
+ORD1846,2023-03-29 00:00:00,2023-03-31 00:00:00,Customer 338,Small Business,Furniture,Sofas,Sofas 14,798.88,60.92,0.03,4,South,Illinois
+ORD1847,2023-08-30 00:00:00,2023-09-02 00:00:00,Customer 287,Consumer,Technology,Printers,Printers 41,303.56,79.96,0.09,7,Central,Illinois
+ORD1848,2023-06-05 00:00:00,2023-06-07 00:00:00,Customer 449,Consumer,Furniture,Sofas,Sofas 87,147.3,12.67,0.08,6,East,California
+ORD1849,2023-02-24 00:00:00,2023-02-26 00:00:00,Customer 65,Consumer,Office Supplies,Paper,Paper 66,752.82,135.56,0,3,East,New York
+ORD1850,2023-10-12 00:00:00,2023-10-17 00:00:00,Customer 341,Corporate,Technology,Printers,Printers 34,296.13,50.88,0.07,1,South,California
+ORD1851,2023-10-18 00:00:00,2023-10-21 00:00:00,Customer 381,Consumer,Furniture,Tables,Tables 71,339.06,23.15,0.14,10,West,Illinois
+ORD1852,2023-02-26 00:00:00,2023-03-02 00:00:00,Customer 305,Small Business,Technology,Printers,Printers 83,870.51,91.16,0.04,6,West,California
+ORD1853,2023-10-28 00:00:00,2023-11-01 00:00:00,Customer 123,Corporate,Furniture,Bookcases,Bookcases 94,855.19,112.75,0.15,9,South,New York
+ORD1854,2023-12-08 00:00:00,2023-12-14 00:00:00,Customer 339,Home Office,Office Supplies,Staplers,Staplers 37,354.12,86.4,0.07,9,West,Illinois
+ORD1855,2023-12-28 00:00:00,2024-01-01 00:00:00,Customer 182,Small Business,Technology,Monitors,Monitors 46,792.11,130.81,0.15,8,West,Texas
+ORD1856,2023-10-20 00:00:00,2023-10-23 00:00:00,Customer 95,Home Office,Furniture,Tables,Tables 73,67.95,13.36,0.04,8,West,Illinois
+ORD1857,2023-08-28 00:00:00,2023-08-29 00:00:00,Customer 78,Consumer,Technology,Monitors,Monitors 85,387.43,26.39,0.03,9,West,Florida
+ORD1858,2023-01-05 00:00:00,2023-01-10 00:00:00,Customer 296,Home Office,Furniture,Tables,Tables 33,558.98,57.61,0.15,10,Central,California
+ORD1859,2023-09-05 00:00:00,2023-09-08 00:00:00,Customer 455,Small Business,Office Supplies,Pens,Pens 78,976.38,292,0.03,6,South,California
+ORD1860,2023-01-06 00:00:00,2023-01-11 00:00:00,Customer 212,Corporate,Technology,Laptops,Laptops 9,91.04,24.79,0.05,6,South,Florida
+ORD1861,2023-01-08 00:00:00,2023-01-12 00:00:00,Customer 489,Small Business,Furniture,Tables,Tables 49,987.57,57.43,0.2,6,West,Texas
+ORD1862,2023-09-07 00:00:00,2023-09-11 00:00:00,Customer 455,Small Business,Technology,Printers,Printers 93,935.91,264.5,0.03,3,South,Illinois
+ORD1863,2023-04-26 00:00:00,2023-05-03 00:00:00,Customer 276,Corporate,Technology,Phones,Phones 83,775.07,207.33,0.15,10,Central,Florida
+ORD1864,2023-11-25 00:00:00,2023-11-26 00:00:00,Customer 88,Consumer,Office Supplies,Paper,Paper 19,952.67,184.5,0.11,7,South,New York
+ORD1865,2023-01-21 00:00:00,2023-01-25 00:00:00,Customer 286,Small Business,Office Supplies,Binders,Binders 73,178.93,12.86,0.1,8,South,Illinois
+ORD1866,2023-07-01 00:00:00,2023-07-03 00:00:00,Customer 111,Small Business,Office Supplies,Staplers,Staplers 99,34.92,7.26,0.13,4,West,Illinois
+ORD1867,2023-09-22 00:00:00,2023-09-24 00:00:00,Customer 263,Home Office,Furniture,Tables,Tables 85,203.49,35.96,0.19,9,South,Illinois
+ORD1868,2023-08-02 00:00:00,2023-08-08 00:00:00,Customer 328,Corporate,Office Supplies,Staplers,Staplers 13,545.23,62.66,0.14,9,West,California
+ORD1869,2023-10-08 00:00:00,2023-10-14 00:00:00,Customer 412,Corporate,Office Supplies,Paper,Paper 14,613.92,163.67,0.09,7,East,Florida
+ORD1870,2023-12-23 00:00:00,2023-12-29 00:00:00,Customer 31,Consumer,Office Supplies,Paper,Paper 26,661.93,190.41,0.11,8,South,California
+ORD1871,2023-06-18 00:00:00,2023-06-25 00:00:00,Customer 4,Home Office,Technology,Laptops,Laptops 85,673.03,122.65,0.13,10,Central,Illinois
+ORD1872,2023-08-16 00:00:00,2023-08-19 00:00:00,Customer 324,Corporate,Technology,Printers,Printers 23,927.01,109.7,0.04,1,West,California
+ORD1873,2023-12-15 00:00:00,2023-12-18 00:00:00,Customer 74,Consumer,Furniture,Bookcases,Bookcases 71,239.78,48.46,0.02,1,West,Florida
+ORD1874,2023-12-30 00:00:00,2024-01-04 00:00:00,Customer 260,Home Office,Furniture,Bookcases,Bookcases 73,683.5,83.15,0.18,9,West,New York
+ORD1875,2023-01-31 00:00:00,2023-02-04 00:00:00,Customer 481,Consumer,Technology,Laptops,Laptops 55,103.71,11.09,0.13,6,West,Illinois
+ORD1876,2023-02-13 00:00:00,2023-02-15 00:00:00,Customer 408,Corporate,Furniture,Sofas,Sofas 64,907.7,154.11,0.16,8,Central,California
+ORD1877,2023-12-03 00:00:00,2023-12-06 00:00:00,Customer 32,Corporate,Office Supplies,Binders,Binders 7,481.14,97.76,0.15,3,Central,Illinois
+ORD1878,2023-09-08 00:00:00,2023-09-12 00:00:00,Customer 486,Corporate,Technology,Monitors,Monitors 21,805.05,85.29,0.16,2,West,New York
+ORD1879,2023-09-22 00:00:00,2023-09-27 00:00:00,Customer 161,Home Office,Technology,Laptops,Laptops 32,900,227.08,0.04,5,West,California
+ORD1880,2023-03-01 00:00:00,2023-03-04 00:00:00,Customer 201,Small Business,Technology,Phones,Phones 47,763.16,134.46,0.14,7,South,Florida
+ORD1881,2023-03-05 00:00:00,2023-03-09 00:00:00,Customer 174,Consumer,Technology,Laptops,Laptops 90,385.94,106.35,0.13,9,West,California
+ORD1882,2023-07-02 00:00:00,2023-07-05 00:00:00,Customer 358,Consumer,Technology,Printers,Printers 51,762.7,124.3,0,8,East,Texas
+ORD1883,2023-05-31 00:00:00,2023-06-02 00:00:00,Customer 458,Home Office,Office Supplies,Staplers,Staplers 60,215.54,50.5,0.16,8,East,California
+ORD1884,2023-01-09 00:00:00,2023-01-16 00:00:00,Customer 8,Home Office,Furniture,Sofas,Sofas 43,642.09,124.25,0.17,1,South,New York
+ORD1885,2023-11-14 00:00:00,2023-11-21 00:00:00,Customer 245,Corporate,Office Supplies,Paper,Paper 46,808.1,99.75,0.04,9,West,Illinois
+ORD1886,2023-05-07 00:00:00,2023-05-09 00:00:00,Customer 465,Consumer,Furniture,Bookcases,Bookcases 76,154.03,43.87,0.18,1,East,California
+ORD1887,2023-07-18 00:00:00,2023-07-21 00:00:00,Customer 6,Small Business,Office Supplies,Paper,Paper 20,310.95,56.88,0.15,8,East,California
+ORD1888,2023-09-07 00:00:00,2023-09-11 00:00:00,Customer 466,Consumer,Office Supplies,Pens,Pens 1,890.85,101.21,0.09,6,East,Florida
+ORD1889,2023-08-22 00:00:00,2023-08-29 00:00:00,Customer 462,Small Business,Office Supplies,Pens,Pens 89,552.83,131.47,0.17,6,Central,Florida
+ORD1890,2023-12-02 00:00:00,2023-12-05 00:00:00,Customer 323,Home Office,Furniture,Tables,Tables 23,909.04,174.82,0.16,5,South,Illinois
+ORD1891,2023-11-10 00:00:00,2023-11-13 00:00:00,Customer 229,Home Office,Technology,Printers,Printers 72,639.7,164.23,0.06,6,Central,Illinois
+ORD1892,2023-09-12 00:00:00,2023-09-15 00:00:00,Customer 384,Small Business,Furniture,Bookcases,Bookcases 49,542.53,144.46,0.07,7,Central,Illinois
+ORD1893,2023-01-05 00:00:00,2023-01-07 00:00:00,Customer 100,Consumer,Office Supplies,Binders,Binders 20,428.25,38.94,0.09,10,West,Texas
+ORD1894,2023-10-29 00:00:00,2023-10-30 00:00:00,Customer 422,Consumer,Furniture,Bookcases,Bookcases 68,438.1,86.2,0.12,7,South,Illinois
+ORD1895,2023-09-12 00:00:00,2023-09-15 00:00:00,Customer 463,Corporate,Furniture,Chairs,Chairs 85,314.72,31.73,0.11,8,Central,Texas
+ORD1896,2023-08-11 00:00:00,2023-08-15 00:00:00,Customer 321,Consumer,Office Supplies,Paper,Paper 66,780.92,55.64,0.17,6,East,New York
+ORD1897,2023-06-17 00:00:00,2023-06-23 00:00:00,Customer 292,Home Office,Furniture,Sofas,Sofas 66,113.34,6.47,0.12,3,West,Texas
+ORD1898,2023-04-08 00:00:00,2023-04-15 00:00:00,Customer 370,Consumer,Technology,Phones,Phones 42,363.64,85.91,0.12,2,Central,Illinois
+ORD1899,2023-08-13 00:00:00,2023-08-14 00:00:00,Customer 92,Corporate,Furniture,Tables,Tables 78,79.43,8.05,0.09,9,West,Illinois
+ORD1900,2023-04-09 00:00:00,2023-04-16 00:00:00,Customer 414,Consumer,Furniture,Tables,Tables 76,688.38,162.5,0.15,3,East,Illinois
+ORD1901,2023-12-15 00:00:00,2023-12-17 00:00:00,Customer 385,Consumer,Office Supplies,Staplers,Staplers 20,862.45,110.92,0.06,4,East,California
+ORD1902,2023-10-01 00:00:00,2023-10-02 00:00:00,Customer 347,Small Business,Furniture,Tables,Tables 83,661.8,162.95,0.18,4,East,Texas
+ORD1903,2023-09-06 00:00:00,2023-09-07 00:00:00,Customer 354,Consumer,Furniture,Sofas,Sofas 77,854.3,220.83,0.14,5,West,Florida
+ORD1904,2023-11-13 00:00:00,2023-11-18 00:00:00,Customer 291,Consumer,Office Supplies,Paper,Paper 73,838.07,42.92,0.15,4,Central,California
+ORD1905,2023-12-31 00:00:00,2024-01-02 00:00:00,Customer 232,Consumer,Office Supplies,Pens,Pens 1,725.01,190.07,0.03,9,West,California
+ORD1906,2023-07-26 00:00:00,2023-07-31 00:00:00,Customer 37,Consumer,Office Supplies,Pens,Pens 68,44.43,9.38,0.17,4,Central,New York
+ORD1907,2023-08-07 00:00:00,2023-08-10 00:00:00,Customer 258,Home Office,Furniture,Bookcases,Bookcases 72,41.27,4.98,0.09,3,South,Texas
+ORD1908,2023-01-03 00:00:00,2023-01-05 00:00:00,Customer 199,Small Business,Furniture,Chairs,Chairs 60,487.04,122.64,0.18,1,East,Texas
+ORD1909,2023-06-12 00:00:00,2023-06-16 00:00:00,Customer 331,Home Office,Office Supplies,Paper,Paper 88,402.9,95.7,0.03,10,East,Florida
+ORD1910,2023-10-21 00:00:00,2023-10-26 00:00:00,Customer 16,Home Office,Furniture,Tables,Tables 2,675.57,164.61,0.11,6,South,California
+ORD1911,2023-12-25 00:00:00,2023-12-29 00:00:00,Customer 400,Consumer,Technology,Printers,Printers 72,344.52,41.06,0.04,1,East,Texas
+ORD1912,2023-12-23 00:00:00,2023-12-29 00:00:00,Customer 38,Home Office,Furniture,Tables,Tables 14,102.64,24.85,0.01,4,South,Texas
+ORD1913,2023-10-31 00:00:00,2023-11-04 00:00:00,Customer 113,Corporate,Technology,Printers,Printers 77,398.36,31.1,0.19,7,Central,Illinois
+ORD1914,2023-06-21 00:00:00,2023-06-26 00:00:00,Customer 189,Consumer,Technology,Laptops,Laptops 67,937.03,221.22,0.09,10,East,Illinois
+ORD1915,2023-04-18 00:00:00,2023-04-24 00:00:00,Customer 36,Consumer,Furniture,Sofas,Sofas 98,168.78,29.32,0.14,9,East,Florida
+ORD1916,2023-01-30 00:00:00,2023-02-01 00:00:00,Customer 140,Home Office,Office Supplies,Pens,Pens 35,748.96,152.21,0.07,5,Central,Texas
+ORD1917,2023-11-21 00:00:00,2023-11-26 00:00:00,Customer 327,Small Business,Office Supplies,Binders,Binders 35,816.46,42.87,0.01,9,Central,Illinois
+ORD1918,2023-03-07 00:00:00,2023-03-09 00:00:00,Customer 316,Small Business,Technology,Monitors,Monitors 88,399.5,46.55,0.15,7,West,Florida
+ORD1919,2023-05-17 00:00:00,2023-05-23 00:00:00,Customer 299,Consumer,Office Supplies,Paper,Paper 17,340.56,92.58,0.13,5,West,California
+ORD1920,2023-01-13 00:00:00,2023-01-20 00:00:00,Customer 240,Consumer,Furniture,Tables,Tables 93,59.95,11.29,0.06,3,South,California
+ORD1921,2023-01-24 00:00:00,2023-01-26 00:00:00,Customer 480,Consumer,Technology,Monitors,Monitors 36,309.64,44.71,0.06,5,South,New York
+ORD1922,2023-06-15 00:00:00,2023-06-19 00:00:00,Customer 93,Consumer,Furniture,Tables,Tables 49,413.81,38.89,0.1,9,East,New York
+ORD1923,2023-10-03 00:00:00,2023-10-10 00:00:00,Customer 331,Small Business,Technology,Phones,Phones 61,810.17,164.12,0.04,6,Central,Florida
+ORD1924,2023-09-04 00:00:00,2023-09-11 00:00:00,Customer 266,Home Office,Technology,Laptops,Laptops 70,724.62,48.6,0.12,8,Central,Illinois
+ORD1925,2023-05-25 00:00:00,2023-05-28 00:00:00,Customer 483,Home Office,Office Supplies,Staplers,Staplers 32,35.78,9.06,0,4,Central,Illinois
+ORD1926,2023-01-01 00:00:00,2023-01-05 00:00:00,Customer 159,Small Business,Office Supplies,Paper,Paper 7,123.54,23.98,0.11,10,West,Florida
+ORD1927,2023-05-30 00:00:00,2023-06-04 00:00:00,Customer 214,Home Office,Office Supplies,Paper,Paper 53,82.34,14.51,0.1,7,West,Texas
+ORD1928,2023-03-09 00:00:00,2023-03-10 00:00:00,Customer 79,Home Office,Technology,Monitors,Monitors 88,472.7,139.49,0.04,9,East,New York
+ORD1929,2023-04-05 00:00:00,2023-04-08 00:00:00,Customer 248,Small Business,Furniture,Tables,Tables 13,407.13,34.86,0.19,10,South,Illinois
+ORD1930,2023-12-16 00:00:00,2023-12-22 00:00:00,Customer 7,Corporate,Office Supplies,Pens,Pens 88,274.26,61.74,0.1,7,South,Illinois
+ORD1931,2023-05-14 00:00:00,2023-05-21 00:00:00,Customer 84,Consumer,Technology,Printers,Printers 79,868.76,237.7,0.15,7,West,California
+ORD1932,2023-02-25 00:00:00,2023-03-01 00:00:00,Customer 230,Consumer,Technology,Phones,Phones 51,406.59,50.8,0.18,5,South,Texas
+ORD1933,2023-07-29 00:00:00,2023-08-03 00:00:00,Customer 318,Small Business,Furniture,Sofas,Sofas 64,833.96,230.38,0.08,3,South,Florida
+ORD1934,2023-11-21 00:00:00,2023-11-22 00:00:00,Customer 327,Home Office,Furniture,Chairs,Chairs 98,728.66,180.85,0.08,9,Central,Illinois
+ORD1935,2023-01-10 00:00:00,2023-01-15 00:00:00,Customer 42,Home Office,Furniture,Bookcases,Bookcases 48,401.18,98.36,0.12,7,East,Illinois
+ORD1936,2023-07-14 00:00:00,2023-07-21 00:00:00,Customer 16,Corporate,Technology,Laptops,Laptops 35,661.64,196.19,0.12,9,South,New York
+ORD1937,2023-09-15 00:00:00,2023-09-16 00:00:00,Customer 123,Small Business,Technology,Monitors,Monitors 44,765.9,61.23,0.06,9,South,Texas
+ORD1938,2023-11-21 00:00:00,2023-11-26 00:00:00,Customer 261,Consumer,Technology,Printers,Printers 57,131.37,30.57,0.11,3,Central,Illinois
+ORD1939,2023-11-03 00:00:00,2023-11-07 00:00:00,Customer 370,Small Business,Furniture,Tables,Tables 72,687.65,39.6,0.06,2,East,Florida
+ORD1940,2023-10-31 00:00:00,2023-11-01 00:00:00,Customer 228,Home Office,Technology,Monitors,Monitors 61,57.61,8.12,0.07,2,West,New York
+ORD1941,2023-03-15 00:00:00,2023-03-19 00:00:00,Customer 210,Corporate,Office Supplies,Paper,Paper 10,489.1,90.2,0.17,6,Central,California
+ORD1942,2023-12-17 00:00:00,2023-12-18 00:00:00,Customer 139,Corporate,Office Supplies,Binders,Binders 72,541.05,77.96,0.14,3,West,Illinois
+ORD1943,2023-08-06 00:00:00,2023-08-07 00:00:00,Customer 287,Consumer,Technology,Phones,Phones 68,461.26,126.09,0.2,1,West,Texas
+ORD1944,2023-01-30 00:00:00,2023-02-06 00:00:00,Customer 21,Home Office,Furniture,Sofas,Sofas 3,668.66,196.06,0.16,8,East,Illinois
+ORD1945,2023-01-05 00:00:00,2023-01-11 00:00:00,Customer 457,Consumer,Office Supplies,Binders,Binders 97,50.53,10.64,0.06,6,West,New York
+ORD1946,2023-08-28 00:00:00,2023-08-29 00:00:00,Customer 62,Small Business,Office Supplies,Paper,Paper 13,45.99,11.46,0.04,9,Central,New York
+ORD1947,2023-04-07 00:00:00,2023-04-08 00:00:00,Customer 274,Corporate,Office Supplies,Paper,Paper 89,571.54,38.28,0.1,2,East,Illinois
+ORD1948,2023-10-18 00:00:00,2023-10-25 00:00:00,Customer 319,Home Office,Office Supplies,Binders,Binders 36,747.98,204.93,0.16,3,Central,New York
+ORD1949,2023-03-29 00:00:00,2023-04-02 00:00:00,Customer 392,Home Office,Furniture,Tables,Tables 59,618.38,76.45,0.03,9,Central,Illinois
+ORD1950,2023-07-21 00:00:00,2023-07-23 00:00:00,Customer 5,Consumer,Technology,Monitors,Monitors 60,927.59,54.76,0.18,5,South,Illinois
+ORD1951,2023-03-03 00:00:00,2023-03-09 00:00:00,Customer 188,Home Office,Technology,Printers,Printers 66,780.29,184.97,0.16,5,South,California
+ORD1952,2023-04-14 00:00:00,2023-04-19 00:00:00,Customer 154,Small Business,Technology,Monitors,Monitors 84,940.63,170.49,0.18,4,Central,Illinois
+ORD1953,2023-10-21 00:00:00,2023-10-26 00:00:00,Customer 493,Consumer,Furniture,Tables,Tables 39,317.82,29.97,0.01,8,East,California
+ORD1954,2023-08-22 00:00:00,2023-08-25 00:00:00,Customer 477,Home Office,Office Supplies,Binders,Binders 85,139.12,7.97,0.18,3,South,Illinois
+ORD1955,2023-08-15 00:00:00,2023-08-20 00:00:00,Customer 352,Home Office,Office Supplies,Staplers,Staplers 36,752.09,109.43,0.14,9,West,New York
+ORD1956,2023-04-18 00:00:00,2023-04-22 00:00:00,Customer 205,Home Office,Office Supplies,Staplers,Staplers 58,660.36,37.74,0.09,6,West,Illinois
+ORD1957,2023-09-23 00:00:00,2023-09-27 00:00:00,Customer 312,Corporate,Technology,Printers,Printers 76,241.45,64.71,0.06,7,South,New York
+ORD1958,2023-06-26 00:00:00,2023-06-27 00:00:00,Customer 466,Corporate,Office Supplies,Paper,Paper 20,394.54,100.68,0.09,2,South,New York
+ORD1959,2023-09-07 00:00:00,2023-09-13 00:00:00,Customer 72,Consumer,Office Supplies,Paper,Paper 63,764.53,141.26,0,9,South,Texas
+ORD1960,2023-09-07 00:00:00,2023-09-13 00:00:00,Customer 310,Corporate,Furniture,Sofas,Sofas 54,429.95,116.62,0.12,1,South,Illinois
+ORD1961,2023-03-03 00:00:00,2023-03-08 00:00:00,Customer 43,Small Business,Technology,Monitors,Monitors 67,515.32,55.98,0.15,1,West,California
+ORD1962,2023-01-15 00:00:00,2023-01-16 00:00:00,Customer 91,Home Office,Furniture,Sofas,Sofas 96,576.2,86.51,0.07,1,West,Texas
+ORD1963,2023-09-03 00:00:00,2023-09-07 00:00:00,Customer 349,Consumer,Furniture,Sofas,Sofas 35,945.86,108.46,0.07,1,Central,Texas
+ORD1964,2023-10-25 00:00:00,2023-10-30 00:00:00,Customer 79,Consumer,Office Supplies,Staplers,Staplers 82,945.27,172.7,0.03,8,West,Illinois
+ORD1965,2023-12-10 00:00:00,2023-12-15 00:00:00,Customer 140,Home Office,Furniture,Sofas,Sofas 68,172.09,21.72,0.13,7,West,Texas
+ORD1966,2023-04-28 00:00:00,2023-04-30 00:00:00,Customer 120,Home Office,Furniture,Sofas,Sofas 66,770.58,82.75,0.1,8,South,California
+ORD1967,2023-03-28 00:00:00,2023-04-02 00:00:00,Customer 430,Home Office,Furniture,Bookcases,Bookcases 59,392.59,88.35,0.13,8,Central,Florida
+ORD1968,2023-07-26 00:00:00,2023-07-31 00:00:00,Customer 375,Consumer,Furniture,Sofas,Sofas 37,379.17,77.17,0.13,9,East,Illinois
+ORD1969,2023-09-25 00:00:00,2023-10-02 00:00:00,Customer 46,Small Business,Office Supplies,Paper,Paper 9,162.61,22.38,0.16,4,West,Texas
+ORD1970,2023-05-23 00:00:00,2023-05-26 00:00:00,Customer 397,Corporate,Technology,Monitors,Monitors 66,987.16,282.72,0.14,9,West,Florida
+ORD1971,2023-03-26 00:00:00,2023-04-01 00:00:00,Customer 336,Small Business,Technology,Laptops,Laptops 19,879.14,98.88,0.15,7,West,Florida
+ORD1972,2023-02-15 00:00:00,2023-02-19 00:00:00,Customer 336,Small Business,Technology,Phones,Phones 40,827.94,220.15,0.15,6,West,Illinois
+ORD1973,2023-01-24 00:00:00,2023-01-27 00:00:00,Customer 53,Small Business,Office Supplies,Binders,Binders 50,622.7,64.86,0.15,1,East,Illinois
+ORD1974,2023-01-30 00:00:00,2023-02-05 00:00:00,Customer 9,Consumer,Office Supplies,Paper,Paper 57,26.83,5.58,0.04,9,West,Illinois
+ORD1975,2023-01-26 00:00:00,2023-01-30 00:00:00,Customer 482,Consumer,Furniture,Bookcases,Bookcases 96,741.23,45.37,0.19,5,East,Illinois
+ORD1976,2023-08-16 00:00:00,2023-08-17 00:00:00,Customer 316,Consumer,Office Supplies,Binders,Binders 42,881.01,154.47,0.14,6,South,New York
+ORD1977,2023-01-28 00:00:00,2023-02-03 00:00:00,Customer 18,Corporate,Technology,Printers,Printers 3,978.56,219.3,0.11,8,East,Illinois
+ORD1978,2023-04-16 00:00:00,2023-04-23 00:00:00,Customer 337,Consumer,Office Supplies,Binders,Binders 23,937.53,185.38,0.12,2,West,California
+ORD1979,2023-02-08 00:00:00,2023-02-10 00:00:00,Customer 144,Small Business,Office Supplies,Binders,Binders 86,156.6,10.29,0.06,10,South,New York
+ORD1980,2023-09-06 00:00:00,2023-09-07 00:00:00,Customer 350,Corporate,Office Supplies,Binders,Binders 76,730.34,189.98,0.01,7,West,Illinois
+ORD1981,2023-11-03 00:00:00,2023-11-04 00:00:00,Customer 320,Home Office,Furniture,Bookcases,Bookcases 13,610.78,137.06,0.11,1,West,New York
+ORD1982,2023-09-19 00:00:00,2023-09-23 00:00:00,Customer 486,Consumer,Furniture,Tables,Tables 91,182.76,24.33,0.1,7,East,Texas
+ORD1983,2023-03-14 00:00:00,2023-03-16 00:00:00,Customer 205,Corporate,Furniture,Bookcases,Bookcases 50,188.88,26.97,0.19,9,West,Florida
+ORD1984,2023-05-30 00:00:00,2023-05-31 00:00:00,Customer 358,Consumer,Technology,Monitors,Monitors 5,962.49,285.54,0,2,Central,New York
+ORD1985,2023-11-15 00:00:00,2023-11-19 00:00:00,Customer 349,Home Office,Technology,Laptops,Laptops 29,863.29,94.21,0.05,2,East,California
+ORD1986,2023-10-16 00:00:00,2023-10-18 00:00:00,Customer 463,Home Office,Technology,Monitors,Monitors 72,465.67,121.57,0.05,4,South,Florida
+ORD1987,2023-08-30 00:00:00,2023-09-02 00:00:00,Customer 199,Corporate,Office Supplies,Binders,Binders 6,857.55,214.1,0.11,10,South,New York
+ORD1988,2023-05-05 00:00:00,2023-05-11 00:00:00,Customer 158,Corporate,Office Supplies,Paper,Paper 76,67.13,4.27,0.11,3,South,Illinois
+ORD1989,2023-02-05 00:00:00,2023-02-06 00:00:00,Customer 11,Home Office,Technology,Monitors,Monitors 57,498.91,137.12,0.15,10,West,Illinois
+ORD1990,2023-01-31 00:00:00,2023-02-02 00:00:00,Customer 17,Small Business,Furniture,Bookcases,Bookcases 93,523.15,84.84,0.17,2,East,California
+ORD1991,2023-05-05 00:00:00,2023-05-10 00:00:00,Customer 225,Consumer,Technology,Printers,Printers 31,122.31,13.49,0.12,9,East,Florida
+ORD1992,2023-04-27 00:00:00,2023-05-02 00:00:00,Customer 142,Consumer,Technology,Monitors,Monitors 26,833.35,44.36,0.07,3,East,Florida
+ORD1993,2023-06-17 00:00:00,2023-06-24 00:00:00,Customer 205,Consumer,Furniture,Bookcases,Bookcases 93,154.11,34.07,0.11,1,East,Texas
+ORD1994,2023-01-13 00:00:00,2023-01-17 00:00:00,Customer 114,Corporate,Furniture,Chairs,Chairs 72,928.33,76.09,0.18,5,East,New York
+ORD1995,2023-02-17 00:00:00,2023-02-23 00:00:00,Customer 122,Corporate,Technology,Monitors,Monitors 66,10.06,0.77,0.14,6,South,Florida
+ORD1996,2023-03-27 00:00:00,2023-04-01 00:00:00,Customer 326,Consumer,Technology,Laptops,Laptops 49,847.53,193.39,0.14,5,South,Illinois
+ORD1997,2023-09-12 00:00:00,2023-09-15 00:00:00,Customer 197,Small Business,Office Supplies,Paper,Paper 14,367.03,34.69,0.04,3,Central,Texas
+ORD1998,2023-04-13 00:00:00,2023-04-15 00:00:00,Customer 350,Small Business,Office Supplies,Binders,Binders 90,749.41,219.4,0.03,6,East,New York
+ORD1999,2023-10-12 00:00:00,2023-10-15 00:00:00,Customer 499,Home Office,Technology,Monitors,Monitors 97,549.43,36.32,0.18,2,South,Illinois
